@@ -1,0 +1,400 @@
+who is the director of [State Property 2]	Damon Dash	directed_by
+what was the release date of the film [Mr. North]	1988	release_year
+describe [Sands of Iwo Jima] in a few words	world war ii|john wayne|allan dwan	has_tags
+describe the movie [The Winning of Barbara Worth] in a few words	henry king	has_tags
+describe [The Triumph of Love]	18th century|fiona shaw	has_tags
+[Angels in the Outfield], when was it released	1951	release_year
+the movie [The Thaw], when was it released	2009	release_year
+what does [Alice Brady] appear in	The Gay Divorcee|Gold Diggers of 1935|In Old Chicago|When Ladies Meet	starred_actors_reverse
+what year was [Marvin's Room] released	1996	release_year
+who is the director of [Destry Rides Again]	George Marshall	directed_by
+which movies was [Alan Campbell] the writer of	A Star Is Born|The Little Foxes|Tales of Manhattan|Sweethearts	written_by_reverse
+who starred in [Desperate Measures]	Brian Cox|Michael Keaton|Marcia Gay Harden	starred_actors
+which movie did [Baya Kasmi] write	The Names of Love	written_by_reverse
+who is listed as director for [The Black Dahlia]	Brian De Palma	directed_by
+what films did [Daisy von Scherler Mayer] direct	The Guru|Party Girl	directed_by_reverse
+who acted in the movie [Across the Universe]	Jim Sturgess|Evan Rachel Wood|Joe Anderson|Dana Fuchs	starred_actors
+which movies was [Alexandre de La Patellière] a writer on	What's in a Name?	written_by_reverse
+what language is the movie [The Public Woman] in	French	in_language
+who wrote the screenplay for [The Fury]	John Farris	written_by
+what does [Walter Steiner] act in	The Great Ecstasy of Woodcarver Steiner	starred_actors_reverse
+what kind of film is [Raising Helen]	Drama|Comedy	has_genre
+describe the movie [Voices of a Distant Star] in a few words	space|anime|makoto shinkai	has_tags
+what sort of movie is [From Hell]	Mystery|Horror	has_genre
+the director of [Tank Girl] was	Rachel Talalay	directed_by
+what year was the movie [Avatar] released	2009	release_year
+which topics is [Final Destination 3] about	horror|franchise|james wong	has_tags
+what does [Bug Hall] appear in	Honey, We Shrunk Ourselves	starred_actors_reverse
+what was the genre of [Pure Country]	Drama|Music	has_genre
+what is the genre for [The Bridge at Remagen]	War	has_genre
+who directed the film [Thinner]	Tom Holland	directed_by
+who was [Daddy's Little Girls] written by	Tyler Perry	written_by
+which film did [Cameron Crowe] write	Vanilla Sky|Almost Famous|Jerry Maguire|We Bought a Zoo|Fast Times at Ridgemont High|Say Anything...|Elizabethtown|Singles|Pearl Jam Twenty|The Wild Life	written_by_reverse
+who starred in [December Boys]	Daniel Radcliffe	starred_actors
+who is the director that directed [Humoresque]	Jean Negulesco	directed_by
+what is the genre for [The Avengers]	Action	has_genre
+what was the release year of [Bridget Jones's Diary]	2001	release_year
+what type of film is [The Adventures of Tarzan]	Adventure	has_genre
+what is the genre of [The Babysitters]	Drama	has_genre
+which film did [Robert E. Howard] write	Conan the Barbarian|Solomon Kane|Red Sonja|Kull the Conqueror	written_by_reverse
+what movies did [Andrzej Bartkowiak] direct	Doom|Romeo Must Die|Cradle 2 the Grave|Exit Wounds	directed_by_reverse
+who was [Beetlejuice] written by	Warren Skaaren|Michael McDowell|Larry Wilson	written_by
+when was the movie [Maid of Salem] released	1937	release_year
+what sort of movie is [The Monuments Men]	War	has_genre
+who acted in [Moonrise]	Ethel Barrymore|Gail Russell|Dane Clark	starred_actors
+what genre of movie is [The Undefeated]	Western	has_genre
+what films did [Shahid Kapoor] act in	Haider|Jab We Met|Chance Pe Dance	starred_actors_reverse
+which films are about [william a. seiter]	Sons of the Desert|If I Had a Million|Stowaway|Dimples|Susannah of the Mounties	has_tags_reverse
+the movie [French Kiss], when was it released	1995	release_year
+what genre of film is [The Darwin Awards]	Comedy|Adventure	has_genre
+who is the author of [Art School Confidential]	Daniel Clowes	written_by
+what movies was [Vincent Ngo] the writer of	Hancock	written_by_reverse
+[Giulio Petroni] was the director of which films	Death Rides a Horse	directed_by_reverse
+who starred in [Nixon]	Anthony Hopkins|Ed Harris|Joan Allen|Powers Boothe	starred_actors
+what was the genre of the movie [Kin-dza-dza!]	Comedy	has_genre
+what does [Laurie Simmons] star in	Tiny Furniture	starred_actors_reverse
+[Rob Weiss] was the director of which movies	Amongst Friends	directed_by_reverse
+which films did [Coky Giedroyc] direct	Stella Does Tricks	directed_by_reverse
+who directed [Ollie Hopnoodle's Haven of Bliss]	Dick Bartlett	directed_by
+what was the genre of the movie [The Story of the Weeping Camel]	Drama|Family	has_genre
+what sort of movie is [Winning Streak]	Drama	has_genre
+what does [Laurie Metcalf] star in	Dear God	starred_actors_reverse
+what movies did [Walter Cronkite] star in	Fail Safe	starred_actors_reverse
+which words describe movie [Planes]	disney	has_tags
+who are the actors in [Night Shift]	Michael Keaton|Henry Winkler|Shelley Long	starred_actors
+what are some words that describe movie [How to Make Money Selling Drugs]	drugs|documentary	has_tags
+what is the genre of [The Barretts of Wimpole Street]	Romance	has_genre
+the movie [It's Always Fair Weather] starred who	Gene Kelly|Cyd Charisse|Dan Dailey|Dolores Gray	starred_actors
+which topics is movie [Fat Kid Rules the World] about	directorial debut	has_tags
+who's the director of [The Cheap Detective]	Robert Moore	directed_by
+what films was [Ole Bornedal] a writer on	Nightwatch|I Am Dina|Just Another Love Story|The Substitute	written_by_reverse
+what is the genre for [The Loyal 47 Ronin]	Drama	has_genre
+what films did [John Emerson] direct	The Mystery of the Leaping Fish	directed_by_reverse
+what movies did [Jimmy Nail] star in	Dream Demon	starred_actors_reverse
+what are some words that describe movie [Don Jon]	scarlett johansson|julianne moore	has_tags
+what was the release year of the movie [The River]	1951	release_year
+who is the director that directed [Dilwale Dulhania Le Jayenge]	Aditya Chopra	directed_by
+what films did [Omri Katz] act in	Hocus Pocus|Matinee	starred_actors_reverse
+which movie was [Takao Okawara] the director for	Godzilla 2000|Godzilla vs. Destoroyah|Godzilla vs. Mechagodzilla II	directed_by_reverse
+who is the author of [All the Way Home]	James Agee|Tad Mosel	written_by
+which words describe [Red Dust]	bd-r|national film registry|victor fleming	has_tags
+what was the genre of the film [Jason's Lyric]	Drama	has_genre
+what movies was [Benno Vigny] the writer of	Morocco	written_by_reverse
+which films did [James Hanlon] direct	9/11	directed_by_reverse
+who's the writer of [Two Family House]	Raymond De Felitta	written_by
+who was [The Girl on the Train] directed by	Larry Brand	directed_by
+who stars in [Still of the Night]	Meryl Streep|Roy Scheider|Jessica Tandy|Joe Grifasi	starred_actors
+which movies was [George Crile] a writer on	Charlie Wilson's War	written_by_reverse
+the movie [Losing Isaiah] starred who	Halle Berry|Jessica Lange	starred_actors
+which movie was [Paul Brickman] the director for	Risky Business|Men Don't Leave	directed_by_reverse
+what is the genre for [Lucas]	Comedy	has_genre
+what movies can be described by [mario van peebles]	Baadasssss!|Solo	has_tags_reverse
+which movie did [Giorgio Prosperi] write	Sodom and Gomorrah	written_by_reverse
+what was the release year of [The River]	1984	release_year
+what films did [Robert B. Parker] write	Appaloosa	written_by_reverse
+who stars in [La mujer de mi hermano]	Manolo Cardona|Bárbara Mori|Christian Meier	starred_actors
+who is the director that directed [The Big Empty]	Steve Anderson	directed_by
+which person directed [Modesty Blaise]	Joseph Losey	directed_by
+what does [Akira Kurosawa] appear in	A.K.	starred_actors_reverse
+what was the genre of the movie [Soft Fruit]	Drama	has_genre
+who stars in [A Short Film About Killing]	Krzysztof Globisz|Jan Tesarz	starred_actors
+which films did [Juan Carlos Tabío] direct	Strawberry and Chocolate|7 Days in Havana|Guantanamera	directed_by_reverse
+which films can be described by [hunting]	The Most Dangerous Game	has_tags_reverse
+[Howard Deutch] was the director on which movies	Pretty in Pink|The Replacements|The Whole Ten Yards|My Best Friend's Girl|The Great Outdoors|Some Kind of Wonderful|Grumpier Old Men|Article 99	directed_by_reverse
+[Carlos Saldanha] directed which films	Ice Age|Rio|Rio 2	directed_by_reverse
+what movies did [Andy Paris] write	The Laramie Project	written_by_reverse
+describe the movie [Street Scene] in a few words	king vidor	has_tags
+what sort of film is [Madhouse]	Horror	has_genre
+who starred in [Great Balls of Fire!]	Dennis Quaid	starred_actors
+[Manuel Manquiña] appears in which movies	Airbag	starred_actors_reverse
+who directed [Kiss of the Dragon]	Chris Nahon	directed_by
+can you give a few words describing [Zoo in Budapest]	rowland v. lee	has_tags
+who was the director of [Gardens of the Night]	Damian Harris	directed_by
+which movies can be described by [michael schultz]	The Last Dragon|Carbon Copy	has_tags_reverse
+what is a film written by [Ronald Austin]	Harry in Your Pocket	written_by_reverse
+when was the movie [The Golden Child] released	1986	release_year
+[Dillinger], when was it released	1945	release_year
+which films did [Kat Coiro] direct	A Case of You	directed_by_reverse
+which screenwriter wrote the script for [American Graffiti]	George Lucas	written_by
+what was the release year of [The Accidental Spy]	2001	release_year
+who's the writer of [Chicago Joe and the Showgirl]	David Yallop	written_by
+who acted in the movie [Twisted Nerve]	Billie Whitelaw|Hayley Mills|Hywel Bennett	starred_actors
+what does [Neve Campbell] appear in	Wild Things|The Craft|54|Three to Tango|Panic|The Company|Blind Horizon|When Will I Be Loved|I Really Hate My Job	starred_actors_reverse
+who starred in [The Last Time I Saw Paris]	Donna Reed|Elizabeth Taylor|Walter Pidgeon|Van Johnson	starred_actors
+what films did [Leo McCarey] direct	Duck Soup|An Affair to Remember|The Awful Truth|Going My Way|The Bells of St. Mary's|Make Way for Tomorrow|Love Affair|Ruggles of Red Gap|Once Upon a Honeymoon|The Milky Way|Rally 'Round the Flag, Boys!|Six of a Kind|Satan Never Sleeps|Belle of the Nineties|My Son John	directed_by_reverse
+what words describe [Fever Pitch]	nick hornby	has_tags
+describe [Riot in Cell Block 11] in a few words	don siegel	has_tags
+who was the director of [Cat Ballou]	Elliot Silverstein	directed_by
+what movies did [Diana Rigg] act in	On Her Majesty's Secret Service|Theatre of Blood|The Assassination Bureau|A Little Night Music	starred_actors_reverse
+who was [Sometimes a Great Notion] directed by	Paul Newman	directed_by
+what films did [Terry Kinney] star in	Body Snatchers	starred_actors_reverse
+who directed the movie [The Nativity]	Bernard L. Kowalski	directed_by
+who starred in [Dark Passage]	Humphrey Bogart|Lauren Bacall	starred_actors
+what type of movie is [3000 Miles to Graceland]	Crime	has_genre
+which screenwriter wrote the script for [Rocky II]	Sylvester Stallone	written_by
+what was the release year of [Orca]	1977	release_year
+which movie did [Michael Laughlin] write	Strange Invaders|Strange Behavior	written_by_reverse
+who is the writer of the film [Blow]	David McKenna|Nick Cassavetes|Bruce Porter	written_by
+what year was [The Man from Earth] released	2007	release_year
+what are some words that describe movie [The Postman]	future|kevin costner|adaptation	has_tags
+what is a film written by [Koldo Serra]	The Backwoods	written_by_reverse
+what movies are about [product placement]	Iron Man	has_tags_reverse
+which film did [Joe Ranft] write	Cars|A Bug's Life	written_by_reverse
+which movies are about [richard curtis]	Love Actually|About Time|The Girl in the Café	has_tags_reverse
+who acted in the movie [Double Confession]	Peter Lorre|William Hartnell|Joan Hopkins|Derek Farr	starred_actors
+the movie [Across 110th Street], when was it released	1972	release_year
+what sort of film is [Flying Down to Rio]	Musical	has_genre
+what movies did [Tom S. Parker] write	The Flintstones	written_by_reverse
+when was the film [Week-End in Havana] released	1941	release_year
+who was the writer of the film [Catwoman]	Bob Kane	written_by
+who's the director of [Fat Kid Rules the World]	Matthew Lillard	directed_by
+what sort of film is [A Guy Named Joe]	War	has_genre
+who was [The King's Speech] directed by	Tom Hooper	directed_by
+who is the writer of [Citizen Ruth]	Alexander Payne|Jim Taylor	written_by
+what movies was [Richard Stratton] the writer of	Whiteboyz	written_by_reverse
+who acted in the movie [The Scent of Green Papaya]	Man San Lu|Thi Loc Truong	starred_actors
+describe the movie [Nights in Rodanthe] in a few words	richard gere	has_tags
+what movies did [Harris Yulin] act in	A Short History of Decay	starred_actors_reverse
+what was the release year of the film [Leave It to Beaver]	1997	release_year
+which movie did [Ang Lee] write	Eat Drink Man Woman|The Wedding Banquet|Tortilla Soup|Pushing Hands	written_by_reverse
+the film [Gang Related] starred which actors	Dennis Quaid|James Belushi|Tupac Shakur	starred_actors
+what sort of film is [Leningrad Cowboys Go America]	Music	has_genre
+can you describe movie [Three Comrades] in a few words	frank borzage	has_tags
+which film did [Scott Prendergast] write the story for	Kabluey	written_by_reverse
+who wrote the movie [Runaway Bride]	Sara Parriott|Josann McGibbon	written_by
+what is the genre of [Kissed by Winter]	Mystery	has_genre
+what words describe [St. Elmo's Fire]	brat pack|emilio estevez|rob lowe	has_tags
+what was the genre of the movie [Hillsborough]	Drama	has_genre
+[Mick Jackson] directed which movies	The Bodyguard|Volcano|L.A. Story|Temple Grandin|Threads|Live from Baghdad|Tuesdays with Morrie|Clean Slate|Chattahoochee	directed_by_reverse
+what is a movie written by [Megan Griffiths]	Eden	written_by_reverse
+what films are about [spike lee]	Inside Man|25th Hour|Malcolm X|Do the Right Thing|Oldboy|Summer of Sam|She Hate Me|Get on the Bus	has_tags_reverse
+[E.G. Marshall] appears in which movies	The Chase	starred_actors_reverse
+which person wrote [The Heart Is Deceitful Above All Things]	Asia Argento	written_by
+what year was the movie [Sword of the Beast] released	1965	release_year
+what is the genre of [Boy Meets Girl]	Drama|Romance	has_genre
+who are the actors in [Company Business]	Gene Hackman|Mikhail Baryshnikov	starred_actors
+what is a film directed by [Larry Morey]	Snow White and the Seven Dwarfs	directed_by_reverse
+what does [Kimberly Elise] appear in	Set It Off|For Colored Girls|Pride	starred_actors_reverse
+what is the genre of the film [Centurion]	Action	has_genre
+what kind of movie is [Bringing Up Baby]	Comedy	has_genre
+what are some words that describe movie [What Lies Beneath]	horror|harrison ford|supernatural|robert zemeckis	has_tags
+which film did [Ágúst Guðmundsson] write the story for	The Seagull's Laughter	written_by_reverse
+what language is the movie [Ciao, Professore!] in	Italian	in_language
+what sort of movie is [Opportunity Knocks]	Comedy	has_genre
+what films did [Olivier Adam] write	Don't Worry, I'm Fine	written_by_reverse
+the movie [Easy Come, Easy Go] starred who	Elvis Presley|Dodie Marshall|Pat Priest	starred_actors
+what year was [A Little Princess] released	1995	release_year
+when was [Norwegian Wood] released	2010	release_year
+what is the genre for the film [Calling Dr. Gillespie]	Drama	has_genre
+what genre of movie is [Saw II]	Horror	has_genre
+who directed the film [The 24 Hour Woman]	Nancy Savoca	directed_by
+what genre does [A Little Romance] fall under	Comedy|Romance	has_genre
+who wrote the screenplay for [Where the Red Fern Grows]	Sam Pillsbury|Wilson Rawls|Lyman Dayton	written_by
+what was the release year of the movie [Come and See]	1985	release_year
+what was the release year of [Nomads]	1986	release_year
+the movie [One Good Cop], when was it released	1991	release_year
+what was the release year of the movie [Answer This!]	2011	release_year
+what does [Timothy Hutton] act in	Ordinary People|The Last Mimzy|Taps|The Dark Half|The Killing Room|The Falcon and the Snowman|The Alphabet Killer|Serious Moonlight|Playing God|City of Industry|Iceman|Made in Heaven|The Temp|Everybody's All-American|Deterrence|Avenger|Daniel|The Substance of Fire	starred_actors_reverse
+what was the release date of the film [Rabid]	1977	release_year
+can you give a few words describing [Fear and Desire]	bd-r|stanley kubrick	has_tags
+which film did [François Girard] write	The Red Violin|Silk|Thirty Two Short Films About Glenn Gould	written_by_reverse
+when was the film [I as in Icarus] released	1979	release_year
+who acted in the movie [Liliom]	Charles Boyer|Madeleine Ozeray	starred_actors
+who stars in [The Garage]	Buster Keaton	starred_actors
+who directed the movie [The Road to Glory]	Howard Hawks	directed_by
+what movies did [David Mandel] direct	EuroTrip	directed_by_reverse
+what films can be described by [great]	Schindler's List|Miller's Crossing	has_tags_reverse
+what kind of film is [Cabin in the Sky]	Musical	has_genre
+what films did [Murray Hamilton] act in	Brubaker|No Time for Sergeants	starred_actors_reverse
+when was [The Believer] released	2001	release_year
+who was [The Night They Raided Minsky's] directed by	William Friedkin	directed_by
+when was the movie [Carmen Jones] released	1954	release_year
+what words describe [Spider-Man]	action|superhero|comic book|new york city|sequel|marvel|super-hero|new york|kirsten dunst|willem dafoe|superheroes|james franco|sam raimi|tobey maguire|comics|responsibility|power	has_tags
+what is the genre for [Odd Thomas]	Thriller|Mystery	has_genre
+which person directed [Spencer's Mountain]	Delmer Daves	directed_by
+what is the primary language in the film [Giliap]	Swedish	in_language
+the film [Esther Kahn] starred which actors	Ian Holm|Summer Phoenix	starred_actors
+when was the movie [The Three Caballeros] released	1944	release_year
+which films can be described by [hiroshi inagaki]	Machibuse|Samurai Banners	has_tags_reverse
+describe [Shrek the Halls] in a few words	christmas	has_tags
+who was [Dirty Pictures] directed by	Frank Pierson	directed_by
+who wrote the movie [The Happy Time]	Samuel A. Taylor|Robert Fontaine	written_by
+what sort of film is [A/k/a Tommy Chong]	Documentary	has_genre
+what is a film written by [Benito Zambrano]	Solas	written_by_reverse
+which films did [Robert Lee King] direct	Psycho Beach Party	directed_by_reverse
+what does [Elena Fabrizi] appear in	Acqua e sapone	starred_actors_reverse
+who is the director that directed [Dr. Jekyll and Mr. Hyde]	Rouben Mamoulian	directed_by
+what movies did [Jutta Hoffmann] star in	Bandits	starred_actors_reverse
+what language is [Mammuth] in	French	in_language
+which movies was [Damon Wayans] a writer on	Major Payne|Blankman|Mo' Money	written_by_reverse
+what movies did [Brandon Sean Pearson] act in	The Maze	starred_actors_reverse
+which person wrote [The Town Is Quiet]	Robert Guédiguian	written_by
+what does [Eric Lange] appear in	AM1200	starred_actors_reverse
+what was the genre of the film [Jane Eyre]	Drama	has_genre
+which topics is movie [Bulletproof Monk] about	seann william scott	has_tags
+the movie [Bad Day on the Block] starred who	Charlie Sheen|Mare Winningham	starred_actors
+what films does [Claude Akins] appear in	Battle for the Planet of the Apes|Comanche Station|A Man Called Sledge	starred_actors_reverse
+what movies did [Philip Gelatt] write	The Bleeding House	written_by_reverse
+what is the main language in [Nekromantik]	German	in_language
+which film did [Jane Murfin] write	The Women|Alice Adams|What Price Hollywood?|Come and Get It|Smilin' Through|Stand Up and Fight	written_by_reverse
+[Frozen] is a film written by this person	Jennifer Lee|Hans Christian Andersen|Chris Buck	written_by
+what is the primary language in [Stalker]	Russian	in_language
+what is a film directed by [Kirk R. Thatcher]	It's a Very Merry Muppet Christmas Movie	directed_by_reverse
+the film [Ciao, Professore!] starred which actors	Paolo Villaggio	starred_actors
+what type of film is [Brazilian Western]	Drama|Crime	has_genre
+what movies did [Yvonne Clech] star in	The Fire Within	starred_actors_reverse
+[A Tale of Winter], when was it released	1992	release_year
+[Annabelle], when was it released	2014	release_year
+who is the director that directed [Arthur Newman]	Dante Ariola	directed_by
+what is the genre for the film [The Gambler]	Drama|Crime	has_genre
+what terms are applicable to [The Magnificent Seven]	bd-r|remake|library|western|mexico|steve mcqueen|charles bronson|yul brynner|james coburn|john sturges|eli wallach|robert vaughn	has_tags
+which movies was [Dave Gibbs] a writer on	Freeloaders	written_by_reverse
+what was the release date of [The Black Cat]	1934	release_year
+which movie was [Lance Comfort] the director for	Hotel Reserve	directed_by_reverse
+who is the author of [The Sea Wolf]	Robert Rossen|Jack London	written_by
+who starred in [Frankenstein's Army]	Robert Gwilym	starred_actors
+who was [Vera Drake] written by	Mike Leigh	written_by
+what was the release date of [Transylmania]	2009	release_year
+who was [The Italian Job] directed by	F. Gary Gray	directed_by
+who acted in [The Last Castle]	Mark Ruffalo|Robert Redford|James Gandolfini	starred_actors
+what was the release year of the film [The Entitled]	2011	release_year
+what movies was [Santhanam] an actor in	Enthiran	starred_actors_reverse
+what does [Oscar Redding] star in	Van Diemen's Land	starred_actors_reverse
+what is the genre for [Dune]	Action	has_genre
+who was the writer of the film [The Sky Crawlers]	Hiroshi Mori	written_by
+what films does [Richard Roundtree] appear in	Shaft|Q|An Eye for an Eye|Shaft in Africa	starred_actors_reverse
+what movies was [Frank Davis] the writer of	The Train	written_by_reverse
+[Jessica Hausner] was the director of which films	Lourdes	directed_by_reverse
+who is the author of [Respiro]	Emanuele Crialese	written_by
+what was the release year of [Garfield's Pet Force]	2009	release_year
+when was the movie [Muppets from Space] released	1999	release_year
+who is listed as director for [Yentl]	Barbra Streisand	directed_by
+which movies was [Richelle Mead] the writer of	Vampire Academy	written_by_reverse
+who's the director of [Nina's Heavenly Delights]	Pratibha Parmar	directed_by
+what is the language spoken in [I as in Icarus]	French	in_language
+who is the writer of the film [I Sell the Dead]	Glenn McQuaid	written_by
+which film did [Tom Sullivan] write the story for	If You Could See What I Hear	written_by_reverse
+what films are about [patrick bateman]	American Psycho	has_tags_reverse
+which movies did [Vicente Amorim] direct	Good	directed_by_reverse
+what sort of movie is [The Barkleys of Broadway]	Musical	has_genre
+what is the genre for the movie [The Shawshank Redemption]	Drama	has_genre
+the director of [Dirty Rotten Scoundrels] was	Frank Oz	directed_by
+who wrote the film [Night and Day]	William Bowers|Leo Townsend|Charles Hoffman	written_by
+what films was [Christopher Monger] a writer on	The Englishman Who Went Up a Hill But Came Down a Mountain	written_by_reverse
+what film genre is [Dancer in the Dark]	Drama|Musical	has_genre
+what genre of movie is [The Crimson Rivers]	Thriller	has_genre
+the director of [Salt] was	Phillip Noyce	directed_by
+what is a movie written by [Becky Johnston]	The Prince of Tides|Arthur Newman	written_by_reverse
+which topics is movie [A Prayer for the Dying] about	liam neeson	has_tags
+[Scott MacDonald] appears in which movies	Jack Frost	starred_actors_reverse
+the movie [Anna Karenina] starred who	Kelly Macdonald|Matthew Macfadyen	starred_actors
+what sort of movie is [Secret of the Wings]	Fantasy	has_genre
+who wrote the screenplay for [Fill the Void]	Rama Burshtein	written_by
+which person directed [Dreamscape]	Joseph Ruben	directed_by
+who is the director that directed [Holding Trevor]	Rosser Goodman	directed_by
+who is the writer of the film [At Five in the Afternoon]	Samira Makhmalbaf	written_by
+which movies was [Doug Block] a writer on	51 Birch Street	written_by_reverse
+what does [Barbra Streisand] star in	Meet the Fockers|The Guilt Trip|The Way We Were|What's Up, Doc?|Funny Girl|The Prince of Tides|The Mirror Has Two Faces|Hello, Dolly!|Yentl|A Star Is Born|Nuts|Funny Lady|The Owl and the Pussycat|The Main Event|All Night Long|Up the Sandbox	starred_actors_reverse
+what does [JoBeth Williams] appear in	The Day After|Dutch|Switch|Teachers|Just Write|Desert Bloom|Memories of Me	starred_actors_reverse
+what movies did [Nick Mancuso] act in	Rapid Fire|Death Ship|Contract Killers|Mother Lode	starred_actors_reverse
+which film did [Zachary Donohue] write the story for	The Den	written_by_reverse
+who is the writer of [C.O.G.]	Kyle Patrick Alvarez|David Sedaris	written_by
+what year was the film [Machine Gun McCain] released	1969	release_year
+which movies was [Leon Ford] a writer on	Griff the Invisible	written_by_reverse
+what was [Nancy Meckler] the director of	Sister My Sister	directed_by_reverse
+which topics is movie [Under the Tuscan Sun] about	comedy|divorce|diane lane|tuscany	has_tags
+what words describe [Wide-Eyed and Legless]	richard loncraine	has_tags
+who starred in [Captain America]	Reb Brown	starred_actors
+what films did [Audra Lindley] act in	Desert Hearts|The Heartbreak Kid	starred_actors_reverse
+which films can be described by [apple]	Pirates of Silicon Valley|The Apple	has_tags_reverse
+can you give a few words describing [And Then There Were None]	bd-r|mystery|agatha christie|rené clair	has_tags
+[Vincenzo Natali] was the director of which movies	Cube|Splice|Cypher|Haunter|Nothing	directed_by_reverse
+when was the movie [Akira] released	1988	release_year
+who starred in [Hedd Wyn]	Huw Garmon	starred_actors
+what is a film written by [Paul Weitz]	About a Boy|In Good Company|American Dreamz	written_by_reverse
+what does [Cab Calloway] act in	The Blues Brothers	starred_actors_reverse
+who is the director for [Untamed Heart]	Tony Bill	directed_by
+[Frank Marshall] was the director on which movies	Arachnophobia|Eight Below|Alive|Congo	directed_by_reverse
+what films did [Kathryn Grayson] star in	Anchors Aweigh|Show Boat|The Toast of New Orleans|Two Sisters from Boston	starred_actors_reverse
+the movie [Story of Women] starred who	Isabelle Huppert	starred_actors
+the director of [Anaconda] was	Luis Llosa	directed_by
+what does [Ximena Ayala] appear in	The Amazing Catfish	starred_actors_reverse
+what does [Minase Yashiro] star in	The Machine Girl	starred_actors_reverse
+what kind of movie is [Hollywood Sex Wars]	Comedy	has_genre
+which movies can be described by [robert greenwald]	Xanadu	has_tags_reverse
+which person wrote [The Anniversary Party]	Jennifer Jason Leigh|Alan Cumming	written_by
+who directed [White Hunter Black Heart]	Clint Eastwood	directed_by
+who is the director that directed [She-Wolf of London]	Jean Yarbrough	directed_by
+who is the writer of [The Ape]	Jesper Ganslandt	written_by
+what words describe film [The Fountainhead]	king vidor|ayn rand	has_tags
+can you give a few words describing what [Everlasting Moments] is about	war|camera|jan troell	has_tags
+who is the writer of the film [Me Without You]	Sandra Goldbacher	written_by
+which film did [Chris Ceraso] write the story for	The Turning	written_by_reverse
+what was the release date of the movie [Blood on the Moon]	1948	release_year
+who was the director of [River's Edge]	Tim Hunter	directed_by
+what was [Stephen Norrington] the director of	Blade|The League of Extraordinary Gentlemen|Death Machine|The Last Minute	directed_by_reverse
+who acted in the movie [Seven Thieves]	Rod Steiger|Edward G. Robinson|Joan Collins	starred_actors
+who starred in [Identity]	John Cusack|Ray Liotta|Amanda Peet	starred_actors
+what was the release date of the film [Like Mike]	2002	release_year
+what genre does [Waiting for Forever] fall under	Romance	has_genre
+what movies did [Peter Chelsom] write	Hector and the Search for Happiness|Funny Bones|Hear My Song	written_by_reverse
+who wrote the movie [Gerry]	Matt Damon|Gus Van Sant|Casey Affleck	written_by
+what terms are applicable to [7th Heaven]	frank borzage	has_tags
+who is the director of [Tiresia]	Bertrand Bonello	directed_by
+when was the film [ParaNorman] released	2012	release_year
+who acted in [The Hole]	Teri Polo|Chris Massoglia|Haley Bennett	starred_actors
+what genre of movie is [The Human Factor]	Thriller	has_genre
+what was the release year of the film [I Think I Love My Wife]	2007	release_year
+which topics is movie [Tex] about	matt dillon	has_tags
+describe [The War of the Worlds]	bd-r|classic|technicolor|byron haskin	has_tags
+who is the writer of the film [They Died with Their Boots On]	Æneas MacKenzie|Wally Kline	written_by
+what movies did [Carmen Electra] star in	Meet the Spartans|The Mating Habits of the Earthbound Human|2-Headed Shark Attack|Lap Dance	starred_actors_reverse
+what is the primary language in the film [Tristana]	Spanish	in_language
+who was the writer of [Choke]	Chuck Palahniuk|Clark Gregg	written_by
+who is the author of [The Uninvited]	Dorothy Macardle	written_by
+who was [Adanggaman] written by	Roger Gnoan M'Bala	written_by
+what films can be described by [steampunk]	The League of Extraordinary Gentlemen|Wild Wild West	has_tags_reverse
+what was the release date of the movie [A Handful of Dust]	1988	release_year
+who stars in [Please Give]	Catherine Keener|Rebecca Hall|Elizabeth Keener	starred_actors
+which person directed [Blackmail]	Alfred Hitchcock	directed_by
+when was the film [The Last Waltz] released	1978	release_year
+which films are about [mae west]	She Done Him Wrong|I'm No Angel	has_tags_reverse
+who is the writer of the film [Swing Vote]	Joshua Michael Stern	written_by
+what films did [Liev Schreiber] write	Everything Is Illuminated	written_by_reverse
+what does [Alex Descas] act in	Trouble Every Day	starred_actors_reverse
+what does [Tony Martin] star in	The Big Store|The Interview|Ali Baba Goes to Town	starred_actors_reverse
+what is the genre of [The Death of Mr. Lazarescu]	Comedy	has_genre
+who's the director of [Me and Orson Welles]	Richard Linklater	directed_by
+what type of film is [Rules of Engagement]	Drama|War	has_genre
+which movies are about [ballet]	Black Swan|Billy Elliot|The Red Shoes|Center Stage|Ballet Shoes|Mao's Last Dancer|Hans Christian Andersen	has_tags_reverse
+what genre of film is [Elephant Boy]	Adventure	has_genre
+what year was [The Dark Corner] released	1946	release_year
+who in the world wrote [Head]	Bob Rafelson|Jack Nicholson	written_by
+[Lost Horizon], when was it released	1973	release_year
+which person wrote [Weeds]	John D. Hancock	written_by
+what type of movie is [Stockholm East]	Drama	has_genre
+what is the genre of the film [Last Vegas]	Comedy	has_genre
+what was the release date of the movie [Army of Darkness]	1992	release_year
+who starred in [The Dam Busters]	Michael Redgrave	starred_actors
+who is the author of [Christmas Evil]	Lewis Jackson	written_by
+which words describe [Barry Munday]	patrick wilson|judy greer	has_tags
+which films did [Rob Marshall] direct	Chicago|Memoirs of a Geisha|Into the Woods|Nine	directed_by_reverse
+who is the director for [Beyond the Time Barrier]	Edgar G. Ulmer	directed_by
+which films can be described by [francis veber]	The Closet|Three Fugitives|The Valet	has_tags_reverse
+what was the release date of the film [The American Friend]	1977	release_year
+which movies did [Vsevolod Pudovkin] direct	Storm Over Asia	directed_by_reverse
+the movie [The Other Dream Team] starred who	Jim Lampley|Bill Walton	starred_actors
+what genre does [The Sapphires] fall under	Drama|Comedy	has_genre
+who wrote the film [Dream Wife]	Sidney Sheldon|Herbert Baker|Alfred Lewis Levitt	written_by
+which topics is [Portrait of Jennie] about	fantasy|william dieterle	has_tags
+which movies was [Frederic Raphael] the writer of	Eyes Wide Shut|Two for the Road|Darling|Daisy Miller	written_by_reverse
+who acted in the movie [High Time]	Bing Crosby|Tuesday Weld|Fabian	starred_actors
+the director of [Dune] was who	David Lynch	directed_by
+what are some words that describe movie [Linsanity]	basketball	has_tags
+what is the genre for the film [Something for Everyone]	Comedy	has_genre
+what kind of movie is [Ladies of Leisure]	Drama	has_genre
+who was the director of [Midnight in Paris]	Woody Allen	directed_by
+the movie [A Simple Plan] starred who	Bill Paxton|Billy Bob Thornton|Bridget Fonda	starred_actors
+who directed the movie [Moonlighting]	Jerzy Skolimowski	directed_by
+what was the genre of the film [Romeo Is Bleeding]	Crime	has_genre
+the film [The Parent Trap] starred which actors	Dennis Quaid|Lindsay Lohan|Natasha Richardson	starred_actors
