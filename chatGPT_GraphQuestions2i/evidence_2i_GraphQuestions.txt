@@ -1,0 +1,240 @@
+True 1
+10970(i) 10970    y<-r423-   23797    
+         10970    y<-r272-   10969    
+          {"10970": "m.03kj67", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 0
+2883(i)  2883     n<-r423-   23797    
+         2883     n<-r272-   10969    
+          {"2883": "74^^http://www.w3.org/2001/XMLSchema#integer", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 1
+640(i)   640      n<-r423-   23797    
+         640      n<-r272-   10969    
+          {"640": "0", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 2
+3406(i)  3406     n<-r423-   23797    
+         3406     n<-r272-   10969    
+          {"3406": "m.01k7qh", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 3
+7418(i)  7418     n<-r423-   23797    
+         7418     n<-r272-   10969    
+          {"7418": "4184.0^^http://www.w3.org/2001/XMLSchema#double", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 4
+5272(i)  5272     n<-r423-   23797    
+         5272     n<-r272-   10969    
+          {"5272": "media_common.cause_of_loss", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 5
+2931(i)  2931     n<-r423-   23797    
+         2931     n<-r272-   10969    
+          {"2931": "base.nascar.nascar_race_result", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 6
+13920(i) 13920    n<-r423-   23797    
+         13920    n<-r272-   10969    
+          {"13920": "base.x2010fifaworldcupsouthafrica.current_world_cup_squad", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 7
+1255(i)  1255     n<-r423-   23797    
+         1255     n<-r272-   10969    
+          {"1255": "m.01jnm", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 8
+0(i)     0        n<-r423-   23797    
+         0        n<-r272-   10969    
+          {"0": "m.09c7w0", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 9
+1(i)     1        n<-r423-   23797    
+         1        n<-r272-   10969    
+          {"1": "m.048v6d3", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 10
+2(i)     2        n<-r423-   23797    
+         2        n<-r272-   10969    
+          {"2": "m.0fpdtb", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 11
+3(i)     3        n<-r423-   23797    
+         3        n<-r272-   10969    
+          {"3": "m.0262xl6", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 12
+4(i)     4        n<-r423-   23797    
+         4        n<-r272-   10969    
+          {"4": "m.0vbk", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 13
+5(i)     5        n<-r423-   23797    
+         5        n<-r272-   10969    
+          {"5": "m.0g4yv0r", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 14
+6(i)     6        n<-r423-   23797    
+         6        n<-r272-   10969    
+          {"6": "m.0wh9mdr", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 15
+7(i)     7        n<-r423-   23797    
+         7        n<-r272-   10969    
+          {"7": "m.010fpdn4", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 16
+8(i)     8        n<-r423-   23797    
+         8        n<-r272-   10969    
+          {"8": "m.02jx1", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 17
+9(i)     9        n<-r423-   23797    
+         9        n<-r272-   10969    
+          {"9": "m.03spbl", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 18
+10(i)    10       n<-r423-   23797    
+         10       n<-r272-   10969    
+          {"10": "m.0cxwkm", "r423": "astronomy.astronomical_observatory.telescope_s", "23797": "m.022tzk", "r272": "astronomy.telescope_type.telescopes_of_this_type", "10969": "m.01nhc9"}
+False 1
+0(i)     0        n<-r138-   2754     
+         0        n<-r242-   28510    
+          {"0": "m.09c7w0", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 2
+1(i)     1        n<-r138-   2754     
+         1        n<-r242-   28510    
+          {"1": "m.048v6d3", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 3
+2(i)     2        n<-r138-   2754     
+         2        n<-r242-   28510    
+          {"2": "m.0fpdtb", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 4
+3(i)     3        n<-r138-   2754     
+         3        n<-r242-   28510    
+          {"3": "m.0262xl6", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 5
+4(i)     4        n<-r138-   2754     
+         4        n<-r242-   28510    
+          {"4": "m.0vbk", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 6
+5(i)     5        n<-r138-   2754     
+         5        n<-r242-   28510    
+          {"5": "m.0g4yv0r", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 7
+6(i)     6        n<-r138-   2754     
+         6        n<-r242-   28510    
+          {"6": "m.0wh9mdr", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 8
+7(i)     7        n<-r138-   2754     
+         7        n<-r242-   28510    
+          {"7": "m.010fpdn4", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 9
+8(i)     8        n<-r138-   2754     
+         8        n<-r242-   28510    
+          {"8": "m.02jx1", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 10
+9(i)     9        n<-r138-   2754     
+         9        n<-r242-   28510    
+          {"9": "m.03spbl", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 11
+10(i)    10       n<-r138-   2754     
+         10       n<-r242-   28510    
+          {"10": "m.0cxwkm", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 12
+11(i)    11       n<-r138-   2754     
+         11       n<-r242-   28510    
+          {"11": "17.0^^http://www.w3.org/2001/XMLSchema#double", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 13
+12(i)    12       n<-r138-   2754     
+         12       n<-r242-   28510    
+          {"12": "m.03s0w", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 14
+13(i)    13       n<-r138-   2754     
+         13       n<-r242-   28510    
+          {"13": "m.04j19k2", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 15
+14(i)    14       n<-r138-   2754     
+         14       n<-r242-   28510    
+          {"14": "m.06n90", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 16
+15(i)    15       n<-r138-   2754     
+         15       n<-r242-   28510    
+          {"15": "m.0282nw_", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 17
+16(i)    16       n<-r138-   2754     
+         16       n<-r242-   28510    
+          {"16": "m.05kkh", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 18
+17(i)    17       n<-r138-   2754     
+         17       n<-r242-   28510    
+          {"17": "m.03_3d", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 19
+18(i)    18       n<-r138-   2754     
+         18       n<-r242-   28510    
+          {"18": "m.03c6lt", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 20
+19(i)    19       n<-r138-   2754     
+         19       n<-r242-   28510    
+          {"19": "m.0b7qsg", "r138": "spaceflight.rocket_function.rockets_supporting_this_function", "2754": "m.0cspd", "r242": "spaceflight.rocket_manufacturer.rockets_manufactured", "28510": "m.01_bp"}
+False 1
+6797(i)  6797     n<-r653-   6797     
+         6797     n<-r212-   6703     
+          {"6797": "m.0d19y2", "r653": "medicine.disease.medical_specialties", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 2
+4016(i)  4016     n<-r653-   6797     
+         4016     n<-r212-   6703     
+          {"4016": "m.0mdqp", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 3
+1255(i)  1255     n<-r653-   6797     
+         1255     n<-r212-   6703     
+          {"1255": "m.01jnm", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 4
+0(i)     0        n<-r653-   6797     
+         0        n<-r212-   6703     
+          {"0": "m.09c7w0", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 5
+1(i)     1        n<-r653-   6797     
+         1        n<-r212-   6703     
+          {"1": "m.048v6d3", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 6
+2(i)     2        n<-r653-   6797     
+         2        n<-r212-   6703     
+          {"2": "m.0fpdtb", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 7
+3(i)     3        n<-r653-   6797     
+         3        n<-r212-   6703     
+          {"3": "m.0262xl6", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 8
+4(i)     4        n<-r653-   6797     
+         4        n<-r212-   6703     
+          {"4": "m.0vbk", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 9
+5(i)     5        n<-r653-   6797     
+         5        n<-r212-   6703     
+          {"5": "m.0g4yv0r", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 10
+6(i)     6        n<-r653-   6797     
+         6        n<-r212-   6703     
+          {"6": "m.0wh9mdr", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 11
+7(i)     7        n<-r653-   6797     
+         7        n<-r212-   6703     
+          {"7": "m.010fpdn4", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 12
+8(i)     8        n<-r653-   6797     
+         8        n<-r212-   6703     
+          {"8": "m.02jx1", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 13
+9(i)     9        n<-r653-   6797     
+         9        n<-r212-   6703     
+          {"9": "m.03spbl", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 14
+10(i)    10       n<-r653-   6797     
+         10       n<-r212-   6703     
+          {"10": "m.0cxwkm", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 15
+11(i)    11       n<-r653-   6797     
+         11       n<-r212-   6703     
+          {"11": "17.0^^http://www.w3.org/2001/XMLSchema#double", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 16
+12(i)    12       n<-r653-   6797     
+         12       n<-r212-   6703     
+          {"12": "m.03s0w", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 17
+13(i)    13       n<-r653-   6797     
+         13       n<-r212-   6703     
+          {"13": "m.04j19k2", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 18
+14(i)    14       n<-r653-   6797     
+         14       n<-r212-   6703     
+          {"14": "m.06n90", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 19
+15(i)    15       n<-r653-   6797     
+         15       n<-r212-   6703     
+          {"15": "m.0282nw_", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
+False 20
+16(i)    16       n<-r653-   6797     
+         16       n<-r212-   6703     
+          {"16": "m.05kkh", "r653": "medicine.disease.medical_specialties", "6797": "m.0d19y2", "r212": "medicine.hospital.medical_specialties", "6703": "m.0bt60t"}
