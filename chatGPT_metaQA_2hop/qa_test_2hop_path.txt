@@ -1,0 +1,400 @@
+which person directed the movies starred by [John Krasinski]	Nancy Meyers|Sam Mendes|George Clooney|Ken Kwapis|Luke Greenfield	starred_actors_reverse|directed_by
+who are movie co-directors of [Delbert Mann]	Franco Zeffirelli|Cary Fukunaga|Lewis Milestone|Robert Stevenson	directed_by_reverse|directed_by
+what are the primary languages in the movies directed by [David Mandel]	German	directed_by_reverse|in_language
+the screenwriter [Mimsy Farmer] co-wrote movies with who	Barbet Schroeder	written_by_reverse|written_by
+the films acted by [Shaun White] were in which genres	Sport|Documentary	starred_actors_reverse|has_genre
+what are the genres of the films directed by [Jerry Lewis]	Drama|Comedy|War	directed_by_reverse|has_genre
+who appeared in the same movie with [Angie Everhart]	Erika Eleniak|Dennis Miller	starred_actors_reverse|starred_actors
+what are the genres of the films directed by [Mike Nichols]	Drama|Horror|Comedy|War|Thriller	directed_by_reverse|has_genre
+who are the actors in the films written by [John Travis]	Haley Bennett|Chace Crawford|Jake Weber	written_by_reverse|starred_actors
+the movies starred by [Clifford Rose] were written by who	Adrian Mitchell|Geoffrey Skelton|Peter Weiss	starred_actors_reverse|written_by
+what genres do the films starred by [Al St. John] fall under	Comedy|Short	starred_actors_reverse|has_genre
+the director of [JFK] also directed which movies	U Turn|Savages|Wall Street|Natural Born Killers|Platoon|Salvador|The Doors|Comandante|W.|The Hand|Born on the Fourth of July|World Trade Center|South of the Border|Seizure|Any Given Sunday|Talk Radio|Nixon|Alexander	directed_by|directed_by_reverse
+when were the movies starred by [Meredith Edwards] released	1949	starred_actors_reverse|release_year
+the movies starred by [Dorothy Malone] were directed by who	Rob Cohen|Andrew L. Stone|Joseph Pevney|Raoul Walsh|Robert Aldrich|John Ireland|Douglas Sirk|Charles Marquis Warren	starred_actors_reverse|directed_by
+what were the release years the films starred by [Jean Rochefort]	1990|1972	starred_actors_reverse|release_year
+what genres are the movies written by [Gene Wilder] in	Comedy|Musical	written_by_reverse|has_genre
+the director of [The Brown Bunny] also directed which movies	Buffalo '66	directed_by|directed_by_reverse
+the films directed by [Philippe Grandrieux] starred which actors	Marc Barbé|Elina Löwensohn	directed_by_reverse|starred_actors
+which movies have the same actor of [Jack the Bear]	Ransom|Bingo|Tin Men|The Rainmaker|Throw Momma from the Train|Screwed|Of Mice and Men|Twins|The Good Night|Deck the Halls|Snake Eyes|Solitary Man|Living Out Loud|Batman Returns|Hoffa|What's the Worst That Could Happen?|Get Shorty|Terms of Endearment|Drowning Mona|Impostor|The War of the Roses|Heist|Romancing the Stone|Ruthless People|Wise Guys|Open Season|Going Ape!|Renaissance Man|Matilda|Albino Alligator|Apollo 13|The Jewel of the Nile|Other People's Money|The Lorax|Death to Smoochy|Mission to Mars|Just Add Water|The Human Stain	starred_actors|starred_actors_reverse
+what types are the movies written by [Rowland Barber]	Comedy	written_by_reverse|has_genre
+the films written by [Babaloo Mandel] starred which actors	Nancy Travis|Jason Robards|Dianne Wiest|Olivia d'Abo|Eugene Levy|Joan Cusack|Steve Martin|Michael J. Fox|Kirk Douglas|Geena Davis|John Candy|Daryl Hannah|Billy Crystal|David Paymer|Daniel Stern|Patricia Wettig|Tom Hanks|Mary Steenburgen|Bruno Kirby|Uma Thurman|Natalie Portman|Stockard Channing|Dabney Coleman|Ashley Judd|Madonna|Lori Petty	written_by_reverse|starred_actors
+what were the release years the films written by [Gary David Goldberg]	2005|1995|1989	written_by_reverse|release_year
+who are the actors in the movies written by [Daniel Barnz]	Alex Pettyfer|Holly Hunter|Maggie Gyllenhaal|Viola Davis	written_by_reverse|starred_actors
+what types are the movies directed by [Anthony Hickox]	Action|Comedy|Adventure|Thriller|Crime	directed_by_reverse|has_genre
+what are the films that are directed by the same director of [Finding Neverland]	Machine Gun Preacher|Quantum of Solace|Stay|Everything Put Together|World War Z|Monster's Ball|The Kite Runner	directed_by|directed_by_reverse
+who is listed as director of [Dave Annable] starred movies	Rob Hedden	starred_actors_reverse|directed_by
+the films directed by [Deon Taylor] were in which genres	Horror	directed_by_reverse|has_genre
+the director [Gerd Oswald] co-directed films with who	James Dearden	directed_by_reverse|directed_by
+who acted together with [Breckin Meyer]	Peter Facinelli|Eddie Griffin|Vinnie Jones|Bill Murray|Eddie Mills|Ethan Embry|Jennifer Love Hewitt|Anna Paquin	starred_actors_reverse|starred_actors
+when were the films directed by [Peter Lord] released	2000	directed_by_reverse|release_year
+what languages are the films directed by [Francesco Rosi] in	German|Spanish|French|Italian	directed_by_reverse|in_language
+which movies share the same director of [I Wanna Hold Your Hand]	The Polar Express|Death Becomes Her|Flight|Contact|Beowulf|Cast Away|Romancing the Stone|Back to the Future|Back to the Future Part II|A Christmas Carol|Who Framed Roger Rabbit|Back to the Future Part III|What Lies Beneath|Used Cars|Forrest Gump	directed_by|directed_by_reverse
+the films acted by [Rita Wilson] were released in which years	1996	starred_actors_reverse|release_year
+the movies directed by [Tony Bancroft] were written by who	Raymond Singer|Robert D. San Souci|Philip LaZebnik|Chris Sanders|Rita Hsiao	directed_by_reverse|written_by
+the movies starred by [Adam Lundgren] were written by who	Cilla Jackert	starred_actors_reverse|written_by
+the actor [Christopher Eccleston] appeared in the same movie with who	Geoffrey Rush|Ewan McGregor|Cameron Diaz|Jordana Brewster|Cate Blanchett|Hilary Swank|Joseph Fiennes|Richard Gere|Kerry Fox|Tom Courtenay	starred_actors_reverse|starred_actors
+what were the release dates of [Eric Mandelbaum] written films	2009	written_by_reverse|release_year
+what were the release years the films directed by [Igor Meglic]	2012	directed_by_reverse|release_year
+the director of [Maps to the Stars] is also the director of which movies	Stereo|A History of Violence|Crash|Naked Lunch|A Dangerous Method|Cosmopolis|Spider|Scanners|Crimes of the Future|The Dead Zone|Rabid|Videodrome|Dead Ringers|M. Butterfly|Eastern Promises|The Brood|The Fly	directed_by|directed_by_reverse
+who is listed as screenwriter of [Giorgia Moll] acted films	Joseph L. Mankiewicz|Graham Greene	starred_actors_reverse|written_by
+who are movie co-writers of [Al Pacino]	William Shakespeare	written_by_reverse|written_by
+who are the actors in the films written by [Bob Peterson]	Edward Asner|Jordan Nagai	written_by_reverse|starred_actors
+the director of [The Lord of the Rings] is also the director of which films	Fire and Ice|Coonskin|Wizards|Cool World|Fritz the Cat|American Pop	directed_by|directed_by_reverse
+who acted together with [Dick Haymes]	Dana Andrews|Vivian Blaine|Jeanne Crain|Janet Gaynor|Will Rogers|Lew Ayres	starred_actors_reverse|starred_actors
+who co-wrote films with [Louise Lasser]	Mickey Rose|Woody Allen	written_by_reverse|written_by
+which films share the same actor of [Avalanche]	Lover Come Back|Giant|The Last Unicorn|The Great Gatsby|A Wedding|Bend of the River|Strange Bedfellows|Be Kind Rewind|The Last Sunset|The Undefeated|Zelig|New York Stories|Something of Value|Supernova|The Black Hole|Jackie Brown|Hannah and Her Sisters|Come September|Seconds|Pretty Maids All in a Row|Darling Lili|Widows' Peak|Alligator|The Secret Life of Zoey|Secret Ceremony|Tobruk|See No Evil|Vigilante|Gun Fury|A Midsummer Night's Sex Comedy|Ice Station Zebra|Rosemary's Baby|Alice|Man's Favorite Sport?|Miami Rhapsody|Send Me No Flowers|Battle Hymn|A Fine Pair|Lakeboat|Medium Cool|September|Magnificent Obsession|Written on the Wind|All That Heaven Allows|Pillow Talk|A Gathering of Eagles|Husbands and Wives|The Lawless Breed|Diamond Men	starred_actors|starred_actors_reverse
+which person directed the films acted by [Jane Seymour]	Harold Young|Don Sharp|Jeannot Szwarc|Ellie Kanner|Zoltan Korda|Shekhar Kapur|Sam Wanamaker|Dermot Mulroney	starred_actors_reverse|directed_by
+what are the movies that have the same screenwriter of [Scarecrows]	Route 666	written_by|written_by_reverse
+which person directed the movies starred by [Brandon Quinn]	Ingmar Bergman	starred_actors_reverse|directed_by
+what types are the films written by [Anthony Stacchi]	Comedy|Animation|Adventure	written_by_reverse|has_genre
+who co-directed films with [Buddy Giovinazzo]	Richard Stanley|Tom Savini|Karim Hussain|Douglas Buck|David Gregory	directed_by_reverse|directed_by
+the scriptwriter of [Shuttle] also wrote which films	Flawless|Thieves Like Us|They Live by Night	written_by|written_by_reverse
+what genres are the films directed by [Malcolm Venville] in	Drama|Comedy|Crime	directed_by_reverse|has_genre
+the scriptwriter of [Alila] also wrote movies	Kadosh|Kippur|Kedma|Free Zone	written_by|written_by_reverse
+who directed the movies acted by [Jim Caviezel]	Simon Brand|Roger Christian|Luis Mandoki|Mikael Håfström|Robert Harmon|Omar Naim|Terrence Malick|Kevin Reynolds|Rowland V. Lee|Gregory Hoblit|Robert Vernay|Mel Gibson	starred_actors_reverse|directed_by
+who co-wrote films with [Patrick Hasburgh]	Michael Bacall|Stephen J. Cannell|Jonah Hill	written_by_reverse|written_by
+who directed the movies acted by [Margot Steinberg]	Richard Attenborough	starred_actors_reverse|directed_by
+who are the actors in the films written by [Katrin Benedikt]	Jason Statham|Harrison Ford|Sylvester Stallone|Arnold Schwarzenegger	written_by_reverse|starred_actors
+which person wrote the movies directed by [Niki Caro]	Michael Seitzman|Clara Bingham|Witi Ihimaera|Laura Leedy	directed_by_reverse|written_by
+which person directed the films acted by [Jacqueline Pearce]	John Gilling	starred_actors_reverse|directed_by
+who starred in the movies written by [Angelo Pizzo]	Dennis Hopper|Barbara Hershey|Ned Beatty|Gene Hackman|Sean Astin	written_by_reverse|starred_actors
+what types are the movies written by [Stephen Carpenter]	Drama|Comedy|Crime	written_by_reverse|has_genre
+the actor [Claudia Gerini] appeared in the same movie with who	Penélope Cruz|Sergio Castellitto	starred_actors_reverse|starred_actors
+who starred in the movies written by [Howard Sheehan]	Ty Hardin|Cliff Robertson|James Gregory|Robert Culp	written_by_reverse|starred_actors
+the films acted by [Stefano Dionisi] were written by who	Gérard Corbiau	starred_actors_reverse|written_by
+the actor [Sebastian Shaw] co-starred with who	Conrad Veidt|Valerie Hobson|Marius Goring	starred_actors_reverse|starred_actors
+the actor in [Flashpoint] also appears in which films	Front of the Class|The Greening of Whitney Brown|The Sailor Who Fell from Grace with the Sea|Dolphin Tale|The Man Who Fell to Earth|The Seduction of Joe Tynan|The Deep End of the Ocean|Millennium|Trouble in Mind|Semi-Tough|The Beastmaster|Barefoot|Forty Shades of Blue|Songwriter|Men in Black II|Jinxed!|Pharaoh's Army|A Star Is Born|Heaven's Gate|Coma|Beach Red|Blume in Love|Coming Apart|Pork Chop Hill|One-Trick Pony|A Streetcar Named Desire|A Soldier's Daughter Never Cries|Prince of the City|Dolphin Tale 2|Convoy|Smooth Talk|The Phantom|Payday|Hair|Deep Rising|Dead Heat|Big Top Pee-wee|Rollover	starred_actors|starred_actors_reverse
+who are co-stars of [Gabriel Tigerman]	Michael Ironside|Mark Gantt|Vanessa Marcil	starred_actors_reverse|starred_actors
+who co-wrote films with [Sam Shepard]	L.M. Kit Carson|Wim Wenders	written_by_reverse|written_by
+which films have the same screenwriter of [Odd Thomas]	The Mummy Returns|Tom and Huck|Van Helsing|Deep Rising|The Mummy|The Adventures of Huck Finn	written_by|written_by_reverse
+what are the movies that have the same actor of [Cookie's Fortune]	Hoodwinked Too! Hood vs. Evil|Nine Months|The Three Musketeers|The Bachelor|The Stepford Wives|Heights|The Big Chill|What Maisie Knew|Savage Grace|Chloe|Trust the Man|101 Dalmatians|The English Teacher|Game Change|The Big Lebowski|Hannibal|Being Flynn|Onegin|The Strangers|The Ledge|Air Force One|Reversal of Fortune|Tarzan|Laws of Attraction|Men Don't Leave|Cast a Deadly Spell|The Forgotten|Still Alice|Super|The Safety of Objects|Mad Love|Assassins|Sarah, Plain and Tall|The Incredible Hulk|Paradise Road|Mars Attacks!|The World According to Garp|Freedomland|Fatal Attraction|Skylark|Maps to the Stars|Evolution|In Love and War|Seventh Son|Don Jon|Hoodwinked!|Next|Immediate Family|The Paper|Heavy|The Hours|Reign Over Me|The Gun in Betty Lou's Handbag|Carrie|The Natural|Albert Nobbs|102 Dalmatians|Anne Frank Remembered|Armageddon|The Prize Winner of Defiance, Ohio|Far from Heaven|Non-Stop|Hamlet|Vertical Limit|School Ties|Marie and Bruce|Scent of a Woman|Roommates|The End of the Affair|The Shipping News|The Chamber|Kinsey|Dangerous Liaisons	starred_actors|starred_actors_reverse
+which movies have the same screenwriter of [Antonia's Line]	A Question of Silence	written_by|written_by_reverse
+who starred movies for the writer [Diane Johnson]	Danny Lloyd|Scatman Crothers|Shelley Duvall|Jack Nicholson	written_by_reverse|starred_actors
+who co-wrote films with [Allison Burnett]	Christopher Gore|Michael Bortman|J.R. Moehringer	written_by_reverse|written_by
+the films written by [Alan Caillou] were released in which years	1977|1989	written_by_reverse|release_year
+which person directed the films written by [Mircea Eliade]	Francis Ford Coppola	written_by_reverse|directed_by
+what were the release years the films starred by [Zohra Lampert]	1960|1971	starred_actors_reverse|release_year
+the actor [Silvia Colloca] acted together with who	Wesley Snipes|Tim Dutton|William Hope	starred_actors_reverse|starred_actors
+what are the genres of the movies written by [Louis Mellis]	Drama|Crime	written_by_reverse|has_genre
+which movies have the same screenwriter of [The Ambushers]	The Silencers|The Big Country|The Violent Men|The Wrecking Crew	written_by|written_by_reverse
+the actor [Pamela Flores] acted together with who	Jeremias Herskovits|Brontis Jodorowsky|Alejandro Jodorowsky	starred_actors_reverse|starred_actors
+who directed the movies acted by [Diana Muldaur]	Robert Mulligan|John Sturges	starred_actors_reverse|directed_by
+who are the writers of the movies directed by [Jack Plotnick]	Sam Pancake|Michael Stoyanov|Kali Rocha	directed_by_reverse|written_by
+the actor of [Searching for Debra Winger] also starred in which films	Nowhere to Run|The Aviator|Gone Fishin'|Nobody's Fool|The Big Blue|I-See-You.Com|8 Million Ways to Die|Northern Lights|The Linguini Incident|After Hours|Desperately Seeking Susan|Hell's Kitchen	starred_actors|starred_actors_reverse
+which person wrote the films directed by [Frank Lloyd]	Charles Lederer|Courtney Ryley Cooper|Justin Huntly McCarthy|Preston Sturges|Howard Koch|Sonya Levien|Charles Nordhoff|Seton I. Miller|Reginald Berkeley|James Norman Hall|Rafael Sabatini	directed_by_reverse|written_by
+the movies directed by [Sandor Stern] starred who	David Hewlett|Terry O'Quinn|Cynthia Preston	directed_by_reverse|starred_actors
+what were the release years the films directed by [Richard Ayoade]	1928|2011|2010|2013	directed_by_reverse|release_year
+which person wrote the films acted by [Conrad Veidt]	Arthur Wimperis|Victor Hugo|Emeric Pressburger|Laurence Gross|Donald Ogden Stewart|Grace Zaring Stone|Francis de Croisset|Edward Childs Carpenter	starred_actors_reverse|written_by
+the movies starred by [Kevin M. Brennan] were in which genres	Comedy	starred_actors_reverse|has_genre
+what are the films that are directed by the same director of [A Woman Rebels]	Follow the Fleet|Top Hat|Skylark|So Proudly We Hail!|Holiday Inn|Blue Skies|The Gay Divorcee	directed_by|directed_by_reverse
+which movies share the screenwriter with [Ugly]	Udaan|Water	written_by|written_by_reverse
+what genres are the films directed by [Theodoros Angelopoulos] in	Drama|History	directed_by_reverse|has_genre
+what are the genres of the movies written by [Gary Young]	Adventure|Thriller|Crime	written_by_reverse|has_genre
+the movies starred by [Sanaa Lathan] were released in which years	1999|2002|1984|2009	starred_actors_reverse|release_year
+which movies have the same director of [Mark of the Vampire]	The Blackbird|Dracula|Where East Is East|The Unknown|Freaks|The Unholy Three|The Devil-Doll|West of Zanzibar	directed_by|directed_by_reverse
+who directed the movies written by [Thomas Ian Griffith]	William Dear	written_by_reverse|directed_by
+what are the main languages in [Björne Larson] directed films	Swedish	directed_by_reverse|in_language
+who wrote movies together with [Frederick Treves]	Ashley Montagu|Eric Bergren|Christopher De Vore|Bernard Pomerance|David Lynch|Steve Lawson	written_by_reverse|written_by
+what were the release years of the movies written by [Tarik Saleh]	2009	written_by_reverse|release_year
+which films share the screenwriter with [King Arthur]	Amistad	written_by|written_by_reverse
+the actor [Harold Gould] appeared in the same movie with who	James Brolin|Dana Carvey|Jennifer Esposito	starred_actors_reverse|starred_actors
+who starred together with [John Conor Brooke]	Emilea Wilson|Michael Nathanson	starred_actors_reverse|starred_actors
+who are film co-writers of [Tim Burns]	Alex Winter|Tom Stern	written_by_reverse|written_by
+which movies have the same actor of [The Last Unicorn]	Thunderbolt and Lightfoot|Iron Man|Simon|American Heart|Against All Odds|The Morning After|A Wedding|Masked and Anonymous|8 Million Ways to Die|Simpatico|Catch-22|True Grit|Blown Away|The Seven-Per-Cent Solution|New York Stories|Cutter's Way|Noel|Steal Big Steal Little|Rendition|Mother Night|A Dog Year|The Big Lebowski|Avalanche|Secret Ceremony|See You in the Morning|Be Kind Rewind|Husbands and Wives|King Kong|Kiss Me Goodbye|Zelig|Fearless|Hearts of the West|The Heart Is a Lonely Hunter|Widows' Peak|Starman|Wait Until Dark|The Vanishing|Arlington Road|Get Smart|Argo|See No Evil|Surf's Up|K-PAX|A Midsummer Night's Sex Comedy|The Last Picture Show|The Secret Life of Zoey|The In-Laws|The Last American Hero|Freebie and the Bean|Nadine|Crazy Heart|Alice|Fat City|The Fabulous Baker Boys|Stay Hungry|Winter Kills|The Fisher King|Rosemary's Baby|The Amateurs|Seventh Son|Miami Rhapsody|The Rocketeer|Hannah and Her Sisters|And Starring Pancho Villa as Himself|Bad Company|Inspector Clouseau|The Men Who Stare at Goats|September|Stick It|The Giver|The Muse|Bad Medicine|Big Trouble|The Great Gatsby|Little Miss Sunshine|Slums of Beverly Hills|Last of the Red Hot Lovers|The Contender|R.I.P.D.|Grosse Pointe Blank|Wild Bill|The Pentagon Papers|Stand Up Guys|The Mirror Has Two Faces|Rancho Deluxe	starred_actors|starred_actors_reverse
+which films share the same director of [Scorned]	Leprechaun	directed_by|directed_by_reverse
+what types are the movies directed by [Michael Chapman]	Drama	directed_by_reverse|has_genre
+what were the release dates of [Kirk Jones] directed films	1990|2009|2012|2005	directed_by_reverse|release_year
+the films acted by [Edmund Purdom] were written by who	Maurice Zimm|Joseph Breen|Samuel James Larsen	starred_actors_reverse|written_by
+which screenwriters co-wrote films with [Charles Lederer]	Charles MacArthur|John Taintor Foote|Bartlett Cormack|Wendell Mayes|Hanns Kräly|Billy Wilder|Anita Loos|Dorothy Kingsley|Charles Nordhoff|Abe Burrows|I.A.L. Diamond|Eleazar Lipsky|Lew Lipton|James Norman Hall|Ben Hecht	written_by_reverse|written_by
+what were the release dates of [Bruce McCulloch] directed movies	2002|1998|1999	directed_by_reverse|release_year
+the screenwriter of [Silver City] also wrote which films	Amigo|Eight Men Out|The Challenge|Men with Guns|Go for Sisters|Battle Beyond the Stars|Men of War|Alligator|Lianna|The Howling|Matewan|The Brother from Another Planet|Passion Fish|Honeydripper|The Lady in Red|Breaking In|City of Hope|The Secret of Roan Inish|Sunshine State|Lone Star|Limbo	written_by|written_by_reverse
+what are the movies that have the same actor of [The Getaway]	Prelude to a Kiss|Lymelife|The Great Escape|While She Was Out|An Enemy of the People|Videodrome|Mighty Joe Young|Mulholland Falls|Dillinger|Final Analysis|Baby the Rain Must Fall|End Game|The Specialist|Cool World|The Last Picture Show|The Last Shot|Boarding Gate|Piranhaconda|The Cincinnati Kid|Path to War|Third Person|Bullitt|The Towering Inferno|Convoy|Ghosts of Mississippi|Nevada Smith|One-Eyed Jacks|Cat's Eye|The Marrying Man|Fun with Dick and Jane|The Magnificent Seven|Species|Love Story|The Boost|Northfork|Donnie Brasco|The Confession|The Town That Dreaded Sundown|Best Seller|8 Mile|Grayeagle|Junior Bonner|Mercury Rising|Loosies|The Hunter|Blind Date|Love with the Proper Stranger|My Stepmother Is an Alien|The Sugarland Express|Species II|Malice|Breakheart Pass|Elizabethtown|The Hunt for Red October|Beetlejuice|Reservoir Dogs|Money for Nothing|The Man Who Loved Women|Wagon Master|The Bleeding|Hustle|Once Upon a Time in America|Le Mans|Nadine|Bless the Child|Bite the Bullet|The Sand Pebbles|Vice|The Real McCoy|The Shadow|This Girl's Life|Straight Talk|People I Know|Diggstown|Vampires|House|The Blob|Rio Grande|The Edge|BloodRayne|The Juror|My Best Friend's Girl|Kill Me Again|Citizen Cohn|Rise of the Guardians|Terror Train|Papillon|It's Complicated|Goodbye, Columbus|Fool for Love|Against All Odds|Heaven's Prisoners|Hell Is for Heroes|The Hard Way|Tom Horn|The Onion Field|Mother Lode|Cellular|Any Given Sunday|The Reivers|The Train Robbers|Chisum|Cop|True Believer|Salvador|The Virgin Suicides|A Streetcar Named Desire|Miami Blues|The Thomas Crown Affair|I Dreamed of Africa|Immediate Family|The Natural|Even Money|No Mercy|She's Having a Baby|Batman|Soldier in the Rain|Jamesy Boy	starred_actors|starred_actors_reverse
+the movies written by [Mark Miller] starred who	Donovan Scott|Keanu Reeves|Anthony Quinn|Bridgette Andersen|Giancarlo Giannini	written_by_reverse|starred_actors
+the actor of [The Great Locomotive Chase] also starred in which movies	The Searchers|Hell to Eternity|Sergeant Rutledge|A Kiss Before Dying|Sailor of the King|Old Yeller|The True Story of Jesse James|Brainstorm	starred_actors|starred_actors_reverse
+what are the films that have the same actor of [Labor Pains]	Just My Luck|Georgia Rule|The Parent Trap|Freaky Friday|The Canyons|Mean Girls|I Know Who Killed Me|Confessions of a Teenage Drama Queen|Take This Waltz	starred_actors|starred_actors_reverse
+the actor [Gwenaëlle Simon] co-starred with who	Melvil Poupaud|Amanda Langlet	starred_actors_reverse|starred_actors
+the director of [Beach Red] also directed which films	No Blade of Grass|The Naked Prey	directed_by|directed_by_reverse
+when did the movies acted by [Ignat Daniltsev] release	1975|1997	starred_actors_reverse|release_year
+what are the movies that have the same screenwriter of [A Knight's Tale]	L.A. Confidential|Assassins|The Postman|42|Highway to Hell|Payback|Mystic River|The Order|Man on Fire|Green Zone|Conspiracy Theory	written_by|written_by_reverse
+what were the release years the films starred by [Massi Mrowat]	2012	starred_actors_reverse|release_year
+when did the movies directed by [David Ondaatje] release	2009|1944|1927	directed_by_reverse|release_year
+what were the release years of the movies acted by [Tom Waits]	1986|2005	starred_actors_reverse|release_year
+when did the movies directed by [Atsuya Uki] release	2009	directed_by_reverse|release_year
+when did the movies acted by [Sarah Miles] release	1981|1976|1978|1946|1963|2005|1973	starred_actors_reverse|release_year
+the films written by [Ryosuke Hashiguchi] were in which languages	Japanese	written_by_reverse|in_language
+who directed the films starred by [Linda Evans]	Andrew V. McLaglen	starred_actors_reverse|directed_by
+the actor [Dolores Dorn] appeared in the same movie with who	Cliff Robertson|Beatrice Kay	starred_actors_reverse|starred_actors
+who starred movies for the writer [Claudio Fäh]	Clayton Rohner|Kristin Dattilo|Michael Lowry	written_by_reverse|starred_actors
+the films written by [Ole Bornedal] starred which actors	Ewan McGregor|Luis Guzmán|Natasha Gregson Wagner|Tom Berenger|Amanda Donohoe|Patricia Arquette|Dalton James|Josh Brolin|Raymond Cruz|William Forsythe	written_by_reverse|starred_actors
+what types are the movies directed by [Greg McLean]	Horror	directed_by_reverse|has_genre
+the movies starred by [Jerry Orbach] were released in which years	1991|1987|1981|1946|2000|2014|2009	starred_actors_reverse|release_year
+what were the release dates of [Suzanne Snyder] starred movies	1988	starred_actors_reverse|release_year
+who co-starred with [Jolene Blalock]	LL Cool J|Ray Liotta	starred_actors_reverse|starred_actors
+what are the films that are directed by the same director of [Taxi]	Ride Along|Think Like a Man|Fantastic Four|Sky Fighters|Barbershop|Think Like a Man Too	directed_by|directed_by_reverse
+what were the release dates of [Dimitris Siatopoulos] written films	2007	written_by_reverse|release_year
+what genres are the movies written by [Michael Brandt] in	Action|Comedy|Crime	written_by_reverse|has_genre
+which films share the same director of [The Monster Club]	Moon Zero Two|Asylum|A Night to Remember|The Vampire Lovers|Scars of Dracula|The Anniversary|Don't Bother to Knock|Inferno|The Vault of Horror	directed_by|directed_by_reverse
+the movies directed by [Louie Psihoyos] were released in which years	2009	directed_by_reverse|release_year
+the screenwriter [Novalyne Price Ellis] wrote films together with who	Michael Scott Myers	written_by_reverse|written_by
+what genres do the movies acted by [Michael Madsen] fall under	Horror|Crime|Drama|Fantasy|Adventure|Action|Comedy|Thriller	starred_actors_reverse|has_genre
+the director of [The Wedding Date] also directed which movies	American Virgin|How to Deal	directed_by|directed_by_reverse
+the director of [A Bunch of Amateurs] also directed which movies	Chasing Liberty	directed_by|directed_by_reverse
+the actor [Erika Anderson] is a co-star of who	Nicolas Cage|Judge Reinhold|Joe Pantoliano	starred_actors_reverse|starred_actors
+what types are the films starred by [Ricardo Montalban]	Drama|Music|War	starred_actors_reverse|has_genre
+who co-wrote films with [Cao Hamburger]	Anna Muylaert|Claudio Galperin|Adriana Falcão|Bráulio Mantovani	written_by_reverse|written_by
+which movies have the same actor of [They Only Kill Their Masters]	The Americanization of Emily|The Great Escape|Creepshow|Sayonara|Tank|Maverick|The Thrill of It All|The Wheeler Dealers|My Fellow Americans|Space Cowboys|Barbarians at the Gate|Hour of the Gun|The Castaway Cowboy|The Graduate|Darby's Rangers|Boys' Night Out|Games|The Fan|A Man Called Sledge|The Stepford Wives|Dead Silence|Murphy's Romance|The Firm|That Evening Sun|The Kidnapping of the President|Duel at Diablo|Hellfighters|Sunset|The Swarm|The Legacy|Grand Prix|Move Over, Darling|Support Your Local Gunfighter|Marlowe|Mister Buddwing|The Star Chamber|Skin Game|The Final Countdown|Up Periscope|Victor Victoria|The Children's Hour|The Notebook|One Little Indian|36 Hours|Wild in the Streets|Support Your Local Sheriff!|The Majestic	starred_actors|starred_actors_reverse
+the films written by [Laura Kirk] were directed by who	Griffin Dunne	written_by_reverse|directed_by
+what genres are the films written by [Dick Richards] in	War	written_by_reverse|has_genre
+who are the directors of the movies acted by [Lee Strasberg]	Martin Brest	starred_actors_reverse|directed_by
+what genres are the films written by [Cynthia Cidre] in	Drama|Music	written_by_reverse|has_genre
+who is listed as director of [George Oppenheimer] written movies	Jack Conway|William K. Howard|Vincent Sherman	written_by_reverse|directed_by
+the director of [The Fourth Angel] is also the director of which films	Hamburger Hill|Next of Kin|Ghost Story|When Trumpets Fade|Turtle Diary|Raw Deal|Widows' Peak|The Dogs of War|City of Industry|A Month by the Lake|Shiner	directed_by|directed_by_reverse
+who are the actors of the director [Daniel Taplitz]	Courteney Cox|Anthony LaPaglia|Aidan Quinn	directed_by_reverse|starred_actors
+the actor of [Stone Cold] also starred in which movies	Back in Business	starred_actors|starred_actors_reverse
+who co-wrote films with [Howard Hawks]	John Monk Saunders	written_by_reverse|written_by
+who acted in the movies directed by [Olatunde Osunsanmi]	Corey Johnson|Radha Mitchell|Milla Jovovich|Stephen Moyer|Will Patton	directed_by_reverse|starred_actors
+who is listed as director of [Lee Horsley] acted films	Albert Pyun	starred_actors_reverse|directed_by
+who is listed as screenwriter of [Jonas Ball] acted films	Daniel Myrick|Andrew Piddington	starred_actors_reverse|written_by
+what types are the movies directed by [Indra Kumar]	Drama|Comedy	directed_by_reverse|has_genre
+which films share the screenwriter with [Much Ado About Nothing]	King Lear|Julius Caesar|Men of Respect|Private Romeo|Romeo and Juliet|In Your Eyes|The Tempest|Romeo + Juliet|The Taming of the Shrew|Coriolanus|A Midsummer Night's Dream|Looking for Richard|The Avengers|Othello|O|The Magic Flute|Henry V|Serenity|Richard III|Prospero's Books|The Banquet|Macbeth|Toy Story|Hamlet|The Cabin in the Woods|Chimes at Midnight|Haider|King of Texas|As You Like It|Love's Labour's Lost|Tempest|Buffy the Vampire Slayer	written_by|written_by_reverse
+who is listed as director of [James Fleet] starred movies	Gillian Armstrong	starred_actors_reverse|directed_by
+who co-starred with [Roy Dupuis]	Peter Weller|James Cagney|Don Murray|Glynis Johns|Dana Wynter|Jennifer Rubin	starred_actors_reverse|starred_actors
+which movies have the same director of [Respiro]	Terraferma	directed_by|directed_by_reverse
+who are the writers of the films starred by [Richard Tyson]	Richard Christian Matheson|Zalman King	starred_actors_reverse|written_by
+which person directed the films acted by [Beatrice Kay]	Samuel Fuller	starred_actors_reverse|directed_by
+who wrote the movies acted by [Tom Kenny]	Derek Drymon|Stephen Hillenburg|Kent Osborne|Aaron Springer|Paul Tibbitt|Tim Hill	starred_actors_reverse|written_by
+what were the release years of the movies directed by [Michael Anderson]	1986|1968|1977|1976|1966|1960|1961|1989|1955|1956|2007|1965|1959	directed_by_reverse|release_year
+what are the films that are directed by the same director of [No Way to Treat a Lady]	Number One with a Bullet|Airport 1975|Damnation Alley|The Illustrated Man|Midway	directed_by|directed_by_reverse
+who appeared in the same movie with [Gustaf Skarsgård]	Alexander Skarsgård|Clark Gregg|Henrik Lundström|Andreas Wilson	starred_actors_reverse|starred_actors
+what were the release years of the movies written by [Thomas Mann]	1971	written_by_reverse|release_year
+who acted together with [Dev Gill]	Ram Charan|Srihari	starred_actors_reverse|starred_actors
+who is listed as screenwriter of [Moon Bloodgood] starred movies	David DiGilio|Nils Gaup	starred_actors_reverse|written_by
+the director of [Fast Food Nation] also directed which movies	School of Rock|Boyhood|Before Midnight|Bad News Bears|It's Impossible to Learn to Plow by Reading Books|A Scanner Darkly|SubUrbia|Me and Orson Welles|Dazed and Confused|Tape|Slacker|Before Sunset|Waking Life|Before Sunrise|Bernie	directed_by|directed_by_reverse
+who starred in the films written by [Nicholas Mosley]	Louis Koo|Richie Jen	written_by_reverse|starred_actors
+who is listed as director of [Zack Pearlman] acted films	Huck Botko|Andrew Gurland	starred_actors_reverse|directed_by
+what are the films that are directed by the same director of [Monster House]	City of Ember	directed_by|directed_by_reverse
+what were the release years the films written by [Susannah York]	1980	written_by_reverse|release_year
+what types are the movies written by [Darren Aronofsky]	Drama|Horror|Thriller	written_by_reverse|has_genre
+which films share the same actor of [Unholy]	Someone's Watching Me!|The Fog|Creepshow|Two Evil Eyes|Swamp Thing|A Golden Christmas	starred_actors|starred_actors_reverse
+the films acted by [Donatas Banionis] were directed by who	Steven Soderbergh|Andrei Tarkovsky	starred_actors_reverse|directed_by
+which movies share the screenwriter with [Child of God]	The Road|Good Time Max|All the Pretty Horses|No Country for Old Men|The Sunset Limited|As I Lay Dying|The Counselor|Palo Alto	written_by|written_by_reverse
+the films written by [João Falcão] were released in which years	2000	written_by_reverse|release_year
+the films directed by [Abhishek Jain] were in which languages	Gujarati	directed_by_reverse|in_language
+who acted in the films written by [Harvey Fergusson]	Nancy Carroll|Randolph Scott|Robert Taylor|Wallace Beery|Helen Broderick|Cary Grant|Florence Rice	written_by_reverse|starred_actors
+when did the movies written by [Pekka Parikka] release	1989	written_by_reverse|release_year
+who directed the films starred by [Jay Rodan]	Clare Peploe	starred_actors_reverse|directed_by
+what are the films that are directed by the same director of [The Road]	The Proposition|Lawless	directed_by|directed_by_reverse
+who are the directors of the movies acted by [Justin Bartha]	Bart Freundlich|Todd Phillips|Jon Turteltaub|Kevin Asch	starred_actors_reverse|directed_by
+who are movie co-writers of [Julian Fellowes]	Nigel Balchin|Bob Balaban|Robert Altman|Lucy M. Boston	written_by_reverse|written_by
+who directed the movies written by [Frank De Felitta]	Robert Wise	written_by_reverse|directed_by
+who directed the movies acted by [Laura Malmivaara]	Aku Louhimies|Gus Van Sant	starred_actors_reverse|directed_by
+who wrote the screenplay for the movies starred by [Chris Stapp]	Matt Heath	starred_actors_reverse|written_by
+who acted together with [Elena Fabrizi]	Carlo Verdone	starred_actors_reverse|starred_actors
+what genres are the movies acted by [Carmelo Gómez] in	Drama|Documentary	starred_actors_reverse|has_genre
+what are the movies that have the same screenwriter of [Mantrap]	Cass Timberlane|Arrowsmith|Elmer Gantry|Dodsworth	written_by|written_by_reverse
+what are the languages spoken in the movies written by [Rosamond Marshall]	English	written_by_reverse|in_language
+what are the genres of the films starred by [Bill Pullman]	Mystery|Horror|Drama|Animation|Adventure|Comedy|Thriller	starred_actors_reverse|has_genre
+what types are the movies written by [Fred Schepisi]	Drama	written_by_reverse|has_genre
+the movies directed by [Kat Candler] starred who	Deke Garner|Josh Wiggins|Juliette Lewis|Aaron Paul	directed_by_reverse|starred_actors
+what are the main languages in [Michel Blanc] written movies	French|Italian	written_by_reverse|in_language
+who are the actors in the films written by [Michael Goldbach]	Josh Lucas|Kat Dennings|Reece Thompson	written_by_reverse|starred_actors
+the actor in [The Adventure of Sherlock Holmes' Smarter Brother] also appears in which movies	Mixed Nuts|Silver Streak|The End|The Twelve Chairs|The Frisco Kid|The Scarecrow|Haunted Honeymoon|The Last Remake of Beau Geste|High Anxiety|The Secret of NIMH|Young Frankenstein|Clue|Betsy's Wedding|Start the Revolution Without Me|Stir Crazy|First Family|Funny About Love|Quackser Fortune Has a Cousin in the Bronx|What's Up, Doc?|Blazing Saddles|The Best Little Whorehouse in Texas|Smokey and the Bandit II|The Cannonball Run|See No Evil, Hear No Evil|The Producers|The World's Greatest Lover|Happily Ever After|A Troll in Central Park|Hanky Panky|Sextette|Another You|The Woman in Red|Fatso|The Godson|All Dogs Go to Heaven	starred_actors|starred_actors_reverse
+who starred in the films directed by [Gabe Ibáñez]	Antonio Banderas|Bea Segura|Elena Anaya|Andrés Herrera|Dylan McDermott|Melanie Griffith|Birgitte Hjort Sørensen	directed_by_reverse|starred_actors
+who starred in the films written by [Alfred Hayes]	Eva Marie Saint|Marilyn Monroe|Barbara Stanwyck|Anthony Franciosa|Don Murray|Lloyd Nolan|Lee J. Cobb|Humphrey Bogart|Paul Douglas|Agnes Moorehead|Robert Ryan|Gene Tierney	written_by_reverse|starred_actors
+what are the main languages in [George Peppard] starred movies	German|Italian	starred_actors_reverse|in_language
+what were the release years the films directed by [Walter Hill]	1986|1987|1984|1985|1982|1980|1981|1942|1988|1989|2011|2012|1990|1992|1995|1979|1996|1975|1978|2002|2000|2005	directed_by_reverse|release_year
+what languages are the films written by [Jerzy Andrzejewski] in	Polish	written_by_reverse|in_language
+who is listed as director of [Anne Brochet] acted films	Michael Gordon|Milcho Manchevski|Jacques Rivette	starred_actors_reverse|directed_by
+who starred together with [Lynne Frederick]	Jane Greer|Louis Calhern|Nigel Davenport|Michael Murphy|C. Aubrey Smith|Lionel Jeffries|Ronald Colman|Peter Sellers|Raymond Massey|Deborah Kerr|Stewart Granger|Elke Sommer|Madeleine Carroll	starred_actors_reverse|starred_actors
+which movies have the same actor of [The Corsican Brothers]	Alphaville|The General Died at Dawn|Can't Help Singing|The Reluctant Saint|The Great McGinty|The Black Sleep|The Buccaneer|For Whom the Bell Tolls	starred_actors|starred_actors_reverse
+the actor [Maho Nonami] is a co-star of who	Eiko Koike	starred_actors_reverse|starred_actors
+what were the release dates of [Ryo Ishibashi] starred movies	1999|1993	starred_actors_reverse|release_year
+who is listed as director of [Anthony DeSando] acted films	Tony Vitale	starred_actors_reverse|directed_by
+what were the release years of the movies directed by [Charlie Stratton]	2013	directed_by_reverse|release_year
+who directed the films starred by [Thomas Doret]	Luc Dardenne	starred_actors_reverse|directed_by
+what types are the films directed by [Sérgio Machado]	Drama	directed_by_reverse|has_genre
+the movies starred by [Roy Hudd] were released in which years	2000	starred_actors_reverse|release_year
+who wrote movies together with [Nicholas Thomas]	Luke Greenfield	written_by_reverse|written_by
+what are the main languages in [Elissa Landi] starred movies	French	starred_actors_reverse|in_language
+what genres are the films directed by [Ari Folman] in	Animation|Documentary	directed_by_reverse|has_genre
+the actor [Alex Rocco] acted together with who	Katherine Helmond|Len Cariou|Vin Diesel|Lukas Haas	starred_actors_reverse|starred_actors
+when did the movies written by [Brad Bird] release	1999|2007|2004|2005	written_by_reverse|release_year
+what are the genres of the movies written by [Edgar G. Ulmer]	Horror	written_by_reverse|has_genre
+who starred in the movies directed by [Samuel Fuller]	Jean Peters|Jeff Chandler|Dolores Dorn|Brian Keith|Thelma Ritter|Michael Dante|Reed Hadley|Glenn Corbett|Mary Welch|Beatrice Kay|Al Lettieri|Rod Taylor|Barbara Stanwyck|Richard Widmark|Gene Evans|Kristy McNichol|Lee Marvin|Cliff Robertson|John Ireland|Vincent Price|Richard Harris|Mark Hamill|Constance Towers|Rod Steiger|Barry Sullivan|Ralph Meeker|James Shigeta|Anthony Eisley|Victoria Shaw	directed_by_reverse|starred_actors
+who starred in the movies written by [Jay Kogen]	Dave Foley|Joe Flaherty|Jennifer Tilly|David Anthony Higgins	written_by_reverse|starred_actors
+which movies have the same actor of [The Escape Artist]	Forever, Darling|The Long, Long Trailer	starred_actors|starred_actors_reverse
+who are the actors in the films written by [Sam Chaiton]	Mary Astor|Dorothy Lamour|C. Aubrey Smith|Denzel Washington|Jon Hall	written_by_reverse|starred_actors
+what genres are the films acted by [Julia Faye] in	Drama	starred_actors_reverse|has_genre
+what are the genres of the films starred by [Neil Patrick Harris]	Mystery|Drama|Comedy|Animation|Thriller	starred_actors_reverse|has_genre
+which person directed the films acted by [Dennis Weaver]	Robert Montgomery|Vic Morrow|Ralph Nelson|Steven Spielberg	starred_actors_reverse|directed_by
+the director of [Dead Presidents] also directed which films	Broken City	directed_by|directed_by_reverse
+the director of [Adão e Eva] also directed which films	Tentação	directed_by|directed_by_reverse
+the screenwriter [Mona Achache] co-wrote movies with who	Muriel Barbery	written_by_reverse|written_by
+who acted in the movies written by [Karl Alexander]	Malcolm McDowell|David Warner|Mary Steenburgen	written_by_reverse|starred_actors
+what genres are the movies directed by [P.J. Hogan] in	Comedy	directed_by_reverse|has_genre
+what were the release dates of [Alexandra Bastedo] acted films	1972	starred_actors_reverse|release_year
+what were the release years of the movies directed by [Julian de Laserna]	1981	directed_by_reverse|release_year
+who acted in the movies directed by [Antonio Serrano]	Kuno Becker|Cecilia Roth	directed_by_reverse|starred_actors
+which movies share the same actor of [Armless]	Lisa Picard Is Famous	starred_actors|starred_actors_reverse
+when were the films written by [Liza Marklund] released	2001	written_by_reverse|release_year
+what were the release dates of [Brad Anderson] written films	1998|2008|2001|2010	written_by_reverse|release_year
+the scriptwriter of [Cronos] also wrote which films	Pan's Labyrinth|Pacific Rim|Don't Be Afraid of the Dark|Hellboy|Mimic|The Devil's Backbone	written_by|written_by_reverse
+the screenwriter [Myron Brinig] co-wrote films with who	Milton Krims	written_by_reverse|written_by
+the screenwriter of [Performance] also wrote which films	White of the Eye	written_by|written_by_reverse
+the actor [Dominique Sanda] starred together with who	Gérard Depardieu|Lino Capolicchio|Robert De Niro	starred_actors_reverse|starred_actors
+what are the genres of the films starred by [Madeleine Ozeray]	Fantasy	starred_actors_reverse|has_genre
+who is listed as screenwriter of [Susanna Fogel] directed films	Joni Lefkowitz	directed_by_reverse|written_by
+who starred in the films written by [Tom Ford]	Colin Firth	written_by_reverse|starred_actors
+who are the writers of the movies acted by [Richard Farnsworth]	Stephen King|Lewis John Carlino|John Hunter	starred_actors_reverse|written_by
+the director of [The Hawaiians] also directed which films	Will Penny|Helter Skelter|The Greatest|100 Rifles	directed_by|directed_by_reverse
+what are the genres of the movies written by [Charles Hoffman]	Drama|Musical|Biography	written_by_reverse|has_genre
+the actor in [Sniper] also appears in which films	Shattered|Platoon|The Substitute|The Big Chill|Dead Calm|Memory|Last of the Dogmen|Major League|Sliver|Chasers|Love at Large|Major League II|The Dogs of War|Fear City|Breaking Point|Betrayed|Magic Man|Someone to Watch Over Me|A Murder of Crows|Fishtales|Rustlers' Rhapsody|One Man's Hero|At Play in the Fields of the Lord|The Phantom|Gettysburg|Survival Island|Shoot to Kill|Blood of Redemption|Sniper 2	starred_actors|starred_actors_reverse
+what genres do the films starred by [Eric Mabius] fall under	Comedy	starred_actors_reverse|has_genre
+what are the languages spoken in the films directed by [Albert Uderzo]	French	directed_by_reverse|in_language
+the director of [A Bronx Tale] also directed which movies	The Good Shepherd	directed_by|directed_by_reverse
+the movies directed by [Bibo Bergeron] were in which languages	French	directed_by_reverse|in_language
+which films have the same screenwriter of [Prince of the City]	Find Me Guilty|Night Falls on Manhattan|Year of the Dragon	written_by|written_by_reverse
+what genres are the movies written by [Tony Kushner] in	Drama|Biography	written_by_reverse|has_genre
+what genres are the movies acted by [Gina Lollobrigida] in	Drama|Horror|Comedy|Animation|Adventure	starred_actors_reverse|has_genre
+when did the films directed by [Ringo Lam] release	1987|1992|1996|2003|2001|2007|2009	directed_by_reverse|release_year
+what were the release years the films starred by [Ethan Embry]	2002|1998|1995|1997|1991	starred_actors_reverse|release_year
+who wrote the movies acted by [Edward Herrmann]	Steven Peros|Warren Beatty|Trevor Griffiths	starred_actors_reverse|written_by
+what are the genres of the movies acted by [Harry Carey]	Drama|Fantasy|Western|Adventure	starred_actors_reverse|has_genre
+what are the languages spoken in the movies written by [Ray Bradbury]	English	written_by_reverse|in_language
+when were the films acted by [Akihiko Hirata] released	1954|1975|1967|2014|1998	starred_actors_reverse|release_year
+what types are the movies written by [Willem Wennekers]	Comedy	written_by_reverse|has_genre
+the director [Carl Gottlieb] co-directed films with who	Peter Horton|John Landis|Joe Dante|Robert K. Weiss	directed_by_reverse|directed_by
+who wrote the screenplay for the movies starred by [Rumi Hiiragi]	Hayao Miyazaki	starred_actors_reverse|written_by
+what genres are the movies acted by [Mahima Chaudhry] in	Musical	starred_actors_reverse|has_genre
+what genres are the films acted by [Jodi Lyn O'Keefe] in	Comedy	starred_actors_reverse|has_genre
+who are film co-writers of [Stefano Piani]	Bram Stoker|Dario Argento|Antonio Tentori|Enrique Cerezo	written_by_reverse|written_by
+which films have the same director of [A Month by the Lake]	Hamburger Hill|Next of Kin|Ghost Story|When Trumpets Fade|Turtle Diary|Raw Deal|Widows' Peak|The Dogs of War|City of Industry|The Fourth Angel|Shiner	directed_by|directed_by_reverse
+what were the release years of the movies directed by [Etan Cohen]	2015	directed_by_reverse|release_year
+which movies share the same director of [Jobs]	Swing Vote|Neverwas	directed_by|directed_by_reverse
+what types are the films written by [Glendon Swarthout]	Drama|Romance|Comedy|Western	written_by_reverse|has_genre
+the screenwriter of [Rocky V] also wrote which movies	Driven|Cobra|Homefront|Rambo|Rocky|Staying Alive|The Expendables 3|The Expendables 2|Rocky III|Rhinestone|First Blood|Cliffhanger|Rocky Balboa|Paradise Alley|The Expendables|Over the Top|Rocky II|Rocky IV	written_by|written_by_reverse
+who are the directors of the films written by [Santo Cilauro]	Rob Sitch|Michael Haneke	written_by_reverse|directed_by
+which movies have the same actor of [Queen of the Damned]	Trapped|Romeo Must Die|Chaos Theory	starred_actors|starred_actors_reverse
+the scriptwriter of [One False Move] also wrote movies	Sling Blade|Daddy and Them|A Family Thing|Some Folks Call It a Sling Blade|The Gift|Jayne Mansfield's Car	written_by|written_by_reverse
+the actor of [Flakes] also starred in which movies	Live Free or Die|Tadpole|Rick	starred_actors|starred_actors_reverse
+the movies starred by [Julian McMahon] were directed by who	Julien Magnat|Mennan Yapo	starred_actors_reverse|directed_by
+who starred together with [Miles Davis]	Colin Friels	starred_actors_reverse|starred_actors
+the movies starred by [John Sutton] were directed by who	James V. Kern|Edward Bernds|Joe May|Will Jason	starred_actors_reverse|directed_by
+what genres do the movies written by [Raoul Walsh] fall under	Drama|Crime	written_by_reverse|has_genre
+what are the genres of the movies directed by [Avi Nesher]	Drama	directed_by_reverse|has_genre
+who co-starred with [Monet Mazur]	Julian Morris|Norbert Weisser|Carmine Giovinazzo	starred_actors_reverse|starred_actors
+who wrote movies together with [Philippe Le Guay]	Jérôme Tonnerre	written_by_reverse|written_by
+what types are the films directed by [David Foenkinos]	Drama|Comedy	directed_by_reverse|has_genre
+who is listed as director of [Richard Wattis] starred movies	Val Guest	starred_actors_reverse|directed_by
+what are the main languages in [Waldo Salt] written movies	English	written_by_reverse|in_language
+who are the writers of the films starred by [Paulette Dubost]	Jean Renoir	starred_actors_reverse|written_by
+which movies share the same director of [The Blue Room]	On Tour	directed_by|directed_by_reverse
+what were the release years of the movies written by [Arthur J. Beckhard]	1935	written_by_reverse|release_year
+what were the release dates of [Kyle McCulloch] acted films	1988	starred_actors_reverse|release_year
+what genres do the movies written by [Ariel Dorfman] fall under	Drama	written_by_reverse|has_genre
+what were the release dates of [Tôru Nakamura] acted films	2003	starred_actors_reverse|release_year
+which person directed the movies written by [Naomi Wallace]	John Duigan	written_by_reverse|directed_by
+the films directed by [Davis Guggenheim] starred which actors	Norman Reedus|Carly Schroeder|Lena Headey|Jesse Lee Soffer|Kate Hudson|James Marsden	directed_by_reverse|starred_actors
+the director [Gérard Pirès] co-directed films with who	Tim Story	directed_by_reverse|directed_by
+the actor [Jeremy Sisto] acted together with who	Christine Lahti|Donald Sutherland|Angela Bettis|Jeff Goldblum|Billy Crudup|Jennifer Lopez|Desmond Harrington|Eliza Dushku|James Duval|Anna Faris|Alicia Silverstone|Monica Potter|Emmanuelle Chriqui|Jim Caviezel	starred_actors_reverse|starred_actors
+what were the release dates of [Marcos Carnevale] written films	2011	written_by_reverse|release_year
+who are the actors in the movies written by [Ellen Glasgow]	Olivia de Havilland|Bette Davis	written_by_reverse|starred_actors
+who are the directors of the movies acted by [Meisa Kuroki]	Fumihiko Sori|Takashi Miike	starred_actors_reverse|directed_by
+when were the movies written by [Andrew Bujalski] released	2009|2013|2005	written_by_reverse|release_year
+when did the movies acted by [Jeremy Piven] release	2006|1997	starred_actors_reverse|release_year
+the films acted by [Sridevi] were written by who	Gauri Shinde	starred_actors_reverse|written_by
+what genres do the films written by [Stacy Keach] fall under	Western	written_by_reverse|has_genre
+what genres are the movies acted by [Heathcote Williams] in	Fantasy|Comedy	starred_actors_reverse|has_genre
+the director of [Snow Cake] also directed which movies	My Little Eye|Trauma|Resurrection Man|Hunky Dory	directed_by|directed_by_reverse
+when did the films starred by [Cesar Romero] release	1954|1951|1969|1947	starred_actors_reverse|release_year
+which movies have the same director of [Bright Leaves]	Sherman's March	directed_by|directed_by_reverse
+what are the genres of the films starred by [Ignacio López Tarso]	Drama	starred_actors_reverse|has_genre
+what are the films that have the same actor of [The Girl]	Red Lights|W.E.|Limitless|Candy|Sucker Punch|Camille|Somersault|The Mysteries of Pittsburgh|Interview|Berberian Sound Studio|Mississippi Grind|Infamous|Bright Star	starred_actors|starred_actors_reverse
+who are the actors of the director [Shane Abbess]	Samantha Noble|Andy Whitfield|Dwaine Stevenson	directed_by_reverse|starred_actors
+the movies directed by [Anthony Perkins] were released in which years	1986	directed_by_reverse|release_year
+what were the release dates of [Oliver Stone] written movies	1991|1987|1996|1982|1994|1981|1999|1974|1972|1988|1978|2003|1985|1983|2004|1995|1932|2012|2011|1989|1986	written_by_reverse|release_year
+who starred movies for the director [Efram Potelle]	Amy Smart|Elden Henson	directed_by_reverse|starred_actors
+which films share the same actor of [Blonde and Blonder]	Good Advice|Kambakkht Ishq|Absolute Deception|Tammy and the T-Rex|Valentine|Drop Dead Gorgeous|Dolan's Cadillac|The Third Wheel|Undercover Brother|Naked Souls	starred_actors|starred_actors_reverse
+who wrote the movies acted by [Jack Weston]	Evan Hunter|Terrence McNally	starred_actors_reverse|written_by
+the actor of [Reasonable Doubt] also starred in which films	The Negotiator|No Good Deed|Jackie Brown|Resurrecting the Champ|Kiss of Death|The Devil's Double|One Eight Seven|Lakeview Terrace|The Sunset Limited|Changing Lanes|Basic|Unthinkable|Turbo|Black Snake Moan|Eve's Bayou|The Man|Fluke|Deep Blue Sea|Arena|Shaft|The Long Kiss Goodnight|S.W.A.T.|In My Country|Freedomland|Twisted|The Great White Hype|Soul Men|Rules of Engagement|Farce of the Penguins|Coach Carter|The Caveman's Valentine|Snakes on a Plane|Cleaner|Summer in February|Unbreakable|A Time to Kill|Loaded Weapon 1|African Cats|Sphere|Dead Man Down|Hard Eight|Meeting Evil	starred_actors|starred_actors_reverse
+who wrote movies together with [Tennessee Williams]	Fred Coe|Jan Read|Bahram Tavakoli|Meade Roberts|Oscar Saul|Gore Vidal|Francis Ford Coppola|Hal Kanter|Gavin Lambert|Peter Berneis|John Huston|Richard Brooks|James Poe	written_by_reverse|written_by
+the actor of [The Rules of Attraction] also starred in which movies	Planet 51|The Heavy|Catacombs|Easy Virtue|I'll Be Home for Christmas|Next|Stealth|Devil's Pond|Formosa Betrayed|The Order|40 Days and 40 Nights|Total Recall|The Illusionist|Playing for Keeps|Road to Nowhere|One Missed Call|This Girl's Life|Summer Catch|The Tall Man|London|The A-Team|A Knight's Tale	starred_actors|starred_actors_reverse
+what were the release years the films written by [David Cramer]	2005	written_by_reverse|release_year
+which films have the same director of [You Ain't Seen Nothin' Yet]	Toute la mémoire du monde|Guernica|Life Is a Bed of Roses|Smoking/No Smoking|The War Is Over|Wild Grass|Not on the Lips|Providence|Private Fears in Public Places|Same Old Song|Night and Fog|Last Year at Marienbad	directed_by|directed_by_reverse
+which person directed the movies written by [Edmund Trzcinski]	Billy Wilder	written_by_reverse|directed_by
+what were the release years of the movies written by [Amy Revelle]	2013	written_by_reverse|release_year
+the films written by [Carol Ryrie Brink] were in which genres	Drama	written_by_reverse|has_genre
+who are the directors of the films written by [Greg Iles]	Luis Mandoki	written_by_reverse|directed_by
+who directed the movies acted by [Tom Arnold]	Jessy Terrero|David Palmer|Steve Miner|Arthur Hiller|Ron Oliver|Damian Harris|Brandon Beckner|Dax Shepard|Chris Columbus	starred_actors_reverse|directed_by
+what are the genres of the films written by [Dag Johan Haugerud]	Drama	written_by_reverse|has_genre
+which movies have the same director of [Homegrown]	Waterland|Paris Trout|Losing Isaiah|A Dangerous Woman|Grassroots	directed_by|directed_by_reverse
+which movies share the same actor of [The Lone Ranger]	Phantom|2081|The Rum Diary|Michael Clayton|Separate Lies|Charlie and the Chocolate Factory|Once Upon a Time in Mexico|The Best Exotic Marigold Hotel|What's Eating Gilbert Grape|Teenage Mutant Ninja Turtles|Mortdecai|Sleepy Hollow|Donnie Brasco|RocknRolla|The Astronaut's Wife|In the Bedroom|Finding Neverland|Cry-Baby|Black Knight|Secret Window|Blackout|Black Dragons|Dark Shadows|Girl with a Pearl Earring|Ed Wood|The Tourist|44 Inch Chest|Valkyrie|Dead Man|Alice in Wonderland|Rango|The Libertine|Mirror Mirror|White Banners|The Lone Ranger and the Lost City of Gold|The Debt|Nancy Drew and the Hidden Staircase|Don Juan DeMarco|Nick of Time|Transcendence|Arizona Dream|Edward Scissorhands|The Brave|Oscar and Lucinda|The Exorcism of Emily Rose|Fear and Loathing in Las Vegas|The Gruffalo|Corpse Bride|Private Resort	starred_actors|starred_actors_reverse
+the scriptwriter of [Shutter Island] also wrote which films	The Drop|Mystic River|Gone Baby Gone	written_by|written_by_reverse
+what are the films that have the same screenwriter of [Hud]	Brokeback Mountain|Texasville|Murphy's Romance|The Last Picture Show|The Long, Hot Summer|The Evening Star|The Cowboys|Norma Rae|Terms of Endearment	written_by|written_by_reverse
+who acted in the movies written by [Peter Cook]	Brendan Fraser|Matt Frewer|Kenneth Welsh|Graham Chapman|André Morell|Richard Greene|Basil Rathbone|Christopher Lee|Elizabeth Hurley|Wendy Barrie|Peter Cushing|Nigel Bruce|Dudley Moore	written_by_reverse|starred_actors
+what genres are the movies directed by [Neal Israel] in	Drama|Comedy	directed_by_reverse|has_genre
+who are the directors of the movies written by [Harry Hill]	Steve Bendelack	written_by_reverse|directed_by
+what were the release dates of [Reinout Oerlemans] directed films	2009	directed_by_reverse|release_year
+who directed the films written by [Clara Bingham]	Niki Caro	written_by_reverse|directed_by
+who are co-stars of [Nicoletta Braschi]	Roberto Benigni|Paolo Bonacelli	starred_actors_reverse|starred_actors
+the actor of [Merry Madagascar] also starred in which films	Flirting with Disaster|Keeping the Faith|Madagascar|Kissing a Fool|CB4|Duplex|Jason's Lyric|Envy|The Marc Pease Experience|Permanent Midnight|Woo|Set It Off|Zoolander|Nurse Betty|Meet the Parents|Collateral|Along Came Polly|Head of State|If Lucy Fell|The Watch|There's Something About Mary|The Heartbreak Kid|Down to Earth|Grown Ups|Big Nothing|The Pallbearer|The Longest Yard|The Royal Tenenbaums|I Think I Love My Wife|Tower Heist|Mystery Men|Kingdom Come|Reign Over Me|Grown Ups 2|Zero Effect|Meet the Fockers|Night at the Museum|The Secret Life of Walter Mitty|New Jack City|Top Five|Bad Company|Little Fockers	starred_actors|starred_actors_reverse
+what genres do the movies directed by [Jonas Alexander Arnby] fall under	Drama|Mystery|Horror	directed_by_reverse|has_genre
+the movies starred by [John Allen Nelson] were directed by who	Lawrence Bassoff	starred_actors_reverse|directed_by
+the director of [Father Hood] is also the director of which movies	Dangerous Ground|Cry, the Beloved Country|Yesterday	directed_by|directed_by_reverse
+which person directed the movies written by [Michael Bacall]	Phil Lord|Mark Illsley|Jordan Melamed|Christopher Miller|Nima Nourizadeh|Jonathan Kaplan	written_by_reverse|directed_by
+who are co-stars of [John Allen Nelson]	Steve Levitt|Deborah Shelton	starred_actors_reverse|starred_actors
+who directed the movies written by [Alice Arlen]	Helen Hunt|Mike Nichols	written_by_reverse|directed_by
+what were the release years of the movies written by [Frank Frazetta]	1983	written_by_reverse|release_year
+the director [Griffin Dunne] co-directed movies with who	Rusty Cundieff|Steven Brill|Patrik Forsberg|Peter Farrelly|Elizabeth Banks|Brett Ratner|Steve Carr|James Gunn|Will Graham|Bob Odenkirk|James Duffy|Jonathan van Tulleken	directed_by_reverse|directed_by
+when did the movies written by [Robert Towne] release	1968|1994|1964|1998|1975|1974|1973|1988|2006|1982|1939	written_by_reverse|release_year
+who directed the movies acted by [Cotter Smith]	Armand Mastroianni	starred_actors_reverse|directed_by
+the actor in [Bus Stop] also appears in which films	Clash by Night|Gentlemen Prefer Blondes|We're Not Married!|Kings Row|River of No Return|Of Mice and Men|The Great Gatsby|Blues in the Night|April Love|Shake Hands with the Devil|The Hiding Place|How to Marry a Millionaire|The Misfits|Some Like It Hot|Anatomy of a Murder|A Hatful of Rain|The Shepherd of the Hills|Operation Mad Ball|There's No Business Like Show Business|Don't Bother to Knock|Monkey Business|Let's Make Love|Niagara|The Seven Year Itch	starred_actors|starred_actors_reverse
+which movies share the same actor of [The Tale of Despereaux]	Finding Amanda|Biloxi Blues|The Lion King|Diminished Capacity|Marie and Bruce|Deck the Halls|The Music Man|Max Dugan Returns|Ferris Bueller's Day Off|Family Business|Infinity|You Can Count on Me|Godzilla|The Road to Wellville|The Bling Ring|Torch Song Trilogy|Inspector Gadget|The Stepford Wives|The Freshman|Glory|The Last Shot|Wonderful World|The Producers|The Cable Guy|WarGames|Ladyhawke|Addicted to Love|Election|Harry Potter and the Chamber of Secrets|Out on a Limb	starred_actors|starred_actors_reverse
+who starred movies for the director [Carlos Brooks]	Charlie Tahan|Briana Evigan|Nick Stahl|Garret Dillahunt	directed_by_reverse|starred_actors
+which movies share the screenwriter with [Mad Love]	The Blood Spattered Bride|Endgame|Libertarias	written_by|written_by_reverse
+what are the languages spoken in the films starred by [Tim Roth]	German|Japanese|French|English	starred_actors_reverse|in_language
+who directed the movies acted by [Manoj Joshi]	Abhishek Jain	starred_actors_reverse|directed_by
+when did the films written by [Jacques Mayol] release	1988	written_by_reverse|release_year
+who acted in the movies written by [James Ward Byrkit]	Emily Baldoni	written_by_reverse|starred_actors
+what are the genres of the movies acted by [Donald O'Connor]	Drama|Comedy|Musical	starred_actors_reverse|has_genre
+who acted in the movies written by [Andrea Gyertson Nasfell]	Trace Adkins|Patricia Heaton|Sean Astin|Sarah Drew	written_by_reverse|starred_actors
+who acted in the movies written by [Christopher McQuarrie]	Ewan McGregor|Stanley Tucci|Tom Cruise|Juliette Lewis|Kevin Pollak|Taye Diggs|Nicholas Hoult|Ryan Phillippe|Stephen Baldwin|Eleanor Tomlinson|Benicio Del Toro|Gabriel Byrne	written_by_reverse|starred_actors
+which films share the same director of [G.B.F.]	Jawbreaker	directed_by|directed_by_reverse
+who co-starred with [Charles Gordone]	Barry White|Scatman Crothers	starred_actors_reverse|starred_actors
+the director of [Deterrence] is also the director of which films	Straw Dogs|The Contender|Resurrecting the Champ|The Last Castle	directed_by|directed_by_reverse
+the director of [Will Success Spoil Rock Hunter?] is also the director of which movies	The Girl Can't Help It|The Glass Bottom Boat|Son of Paleface|Susan Slept Here|The Disorderly Orderly|Caprice	directed_by|directed_by_reverse
+who co-wrote films with [P.G. Wodehouse]	Guy Bolton|Joseph Hoffman|Stephen Gross	written_by_reverse|written_by
+which screenwriters co-wrote films with [Tom Eyen]	Bill Condon	written_by_reverse|written_by
+what were the release dates of [Phil Lord] directed films	2014|2009|2012	directed_by_reverse|release_year
+what types are the films written by [Peter Gent]	Drama	written_by_reverse|has_genre
+the screenwriter of [Das Boot] also wrote which movies	The NeverEnding Story|Shattered	written_by|written_by_reverse
+what are the movies that are directed by the same director of [Timeline]	16 Blocks|Lola|Assassins|The Goonies|Lethal Weapon 3|Inside Moves|Radio Flyer|Ladyhawke|Lethal Weapon|The Toy|Superman II|Lethal Weapon 4|Conspiracy Theory|The Omen|Lethal Weapon 2|Scrooged|Maverick|Superman	directed_by|directed_by_reverse
+what are the genres of the movies acted by [Anne Brochet]	Drama|Comedy|Western	starred_actors_reverse|has_genre
+which films have the same actor of [The Scout]	Extraordinary Measures|Escape from Planet Earth|Defending Your Life|Unfaithfully Yours|Looking for Comedy in the Muslim World|Real Life|The Mummy|Mrs. Winterbourne|Broadcast News|Still Breathing|Blast from the Past|Bedazzled|Airheads|The Passion of Darkly Noon|The Mummy Returns|My First Mister|Monkeybone|George of the Jungle|The Last Time|With Honors|Drive|The Nut Job|Pawn Shop Chronicles|Gods and Monsters|Mother|The Quiet American|Furry Vengeance|Encino Man|Modern Romance|Lost in America|Journey to the Center of the Earth|The Muse|School Ties|Dudley Do-Right|Finding Nemo|Inkheart|The Air I Breathe	starred_actors|starred_actors_reverse
+who co-wrote films with [Stuart Beattie]	Richard Flanagan|Ronald Harwood|Baz Luhrmann|Kevin Grevioux|John Marsden	written_by_reverse|written_by
+who are co-stars of [Edward Norton]	Drew Barrymore|Helena Bonham Carter|David Morse|William Hurt|Evan Rachel Wood|Angela Bassett|Tim Roth|Woody Harrelson|Jon Voight|Edward Furlong|Ben Stiller|Jeremy Renner|Paul Giamatti|Anthony Hopkins|Anne Bancroft|Milla Jovovich|Liv Tyler|Catherine Keener|Beverly D'Angelo|Colin Farrell|Rory Culkin|Robert De Niro|Robin Williams|Marlon Brando|Ralph Fiennes|Jenna Elfman|Jessica Biel|Danny DeVito|Courtney Love|Harvey Keitel|Brad Pitt|Noah Emmerich	starred_actors_reverse|starred_actors
+who is listed as screenwriter of [Robert Carradine] starred movies	Rene Daalder	starred_actors_reverse|written_by
+which person directed the films acted by [Lysette Anthony]	Dan Curtis|Peter Yates	starred_actors_reverse|directed_by
+what were the release years the films written by [Dian Fossey]	1988	written_by_reverse|release_year
+what genres are the films directed by [Zach Clark] in	Comedy	directed_by_reverse|has_genre
+which films share the same director of [Downloaded]	Freaked|Fever	directed_by|directed_by_reverse
+what languages are the movies acted by [Audrey Tautou] in	French	starred_actors_reverse|in_language
+what are the genres of the movies written by [Jim Lee]	Action	written_by_reverse|has_genre
+what genres are the movies acted by [James Van Der Beek] in	Drama|Comedy|Thriller	starred_actors_reverse|has_genre
+what were the release years of the movies acted by [Estelle Parsons]	1994|1969|1970	starred_actors_reverse|release_year
+who is listed as director of [Jarrad Paul] written films	Peyton Reed	written_by_reverse|directed_by
+who is listed as screenwriter of [Fred Allen] acted films	Jay Dratler|Gina Kaus	starred_actors_reverse|written_by
+what types are the films directed by [Robert D. Webb]	Western|Adventure	directed_by_reverse|has_genre
+when were the films written by [Pieter Jan Brugge] released	2004	written_by_reverse|release_year
+which films share the same actor of [The Narrow Margin]	Cat-Women of the Moon|The Defiant Ones|The Sniper|Armored Car Robbery	starred_actors|starred_actors_reverse
+the director of [The We and the I] also directed which movies	Tokyo!|The Thorn in the Heart|The Science of Sleep|Mood Indigo|Is the Man Who Is Tall Happy?|Human Nature|Be Kind Rewind|The Green Hornet|Eternal Sunshine of the Spotless Mind	directed_by|directed_by_reverse
+who starred together with [Barbara Feldon]	Dick Van Dyke|Bruce Dern	starred_actors_reverse|starred_actors
+which movies have the same actor of [Alexander the Great]	Bluebeard|Who's Afraid of Virginia Woolf?|The Desert Rats|The Wild Geese|The Taming of the Shrew|The Sandpiper|Look Back in Anger|The Rains of Ranchipur|Anne of the Thousand Days|The Night of the Iguana|Equus|Cleopatra|The Robe|The V.I.P.s|Boom!|Where Eagles Dare|Becket|My Cousin Rachel|Bitter Victory|Nineteen Eighty-Four|The Spy Who Came in from the Cold|Raid on Rommel	starred_actors|starred_actors_reverse
+what were the release dates of [Chester Erskine] written films	1947	written_by_reverse|release_year
+who acted in the films written by [Christos Tsiolkas]	Alex Dimitriades	written_by_reverse|starred_actors
+the movies starred by [Rosel Zech] were in which genres	Drama	starred_actors_reverse|has_genre
+the actor of [Erased] also starred in which films	Conversations with Other Women|Quantum of Solace|Love Happens|In the Company of Men|No Reservations|Possession|To the Wonder|Molly|The Dark Knight|The November Man|The Black Dahlia|Paycheck|Meet Bill|I, Frankenstein|Thank You for Smoking|Oblivion|Olympus Has Fallen|Rabbit Hole|Suspect Zero|The Water Diviner|Neverwas|Trust	starred_actors|starred_actors_reverse
+which movies have the same actor of [St. Ives]	Lola|The Dirty Dozen|This Property Is Condemned|Chato's Land|Assassination|Breakout|Once Upon a Time in the West|Death Hunt|Machine-Gun Kelly|Mr. Majestyk|Murphy's Law|You Can't Win 'Em All|10 to Midnight|Death Wish|Cold Sweat|Death Wish II|Death Wish 3|Messenger of Death|The Mechanic|Love and Bullets|The Valachi Papers|Telefon|Hard Times|The Magnificent Seven|The Evil That Men Do|Breakheart Pass	starred_actors|starred_actors_reverse
+which screenwriters co-wrote movies with [Tess Slesinger]	Talbot Jennings|Betty Smith|Pearl S. Buck|Claudine West	written_by_reverse|written_by
+which person directed the movies written by [Chris Van Allsburg]	Robert Zemeckis|Joe Johnston	written_by_reverse|directed_by
