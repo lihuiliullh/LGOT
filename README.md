@@ -1,4 +1,8 @@
+All the dataset can be found from https://drive.google.com/drive/folders/1H1XHJKRv1rI1FGC4W3nvJIpPvmtfEpcN?usp=share_link
 
+Because the github does not support big files, so we store all the big files and model parameters on google driver
+
+---------------
 
 To run LGOT
 
@@ -63,3 +67,26 @@ folder chatGPT_metaQA_xxxx stores the natural language query for different queri
 
 
 In order to make the dataset easy to use, I copy all the necessary queries and kg to folder dataset. 
+
+
+If you think the paper and code is useful. please consider cite our paper 
+
+
+      @misc{liu2024logicquerythoughtsguiding,
+
+      title={Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs}, 
+      
+      author={Lihui Liu and Zihao Wang and Ruizhong Qiu and Yikun Ban and Eunice Chan and Yangqiu Song and Jingrui He and Hanghang Tong},
+      
+      year={2024},
+      
+      eprint={2404.04264},
+      
+      archivePrefix={arXiv},
+      
+      primaryClass={cs.IR},
+      
+      url={https://arxiv.org/abs/2404.04264}, 
+      
+      }
+'''
