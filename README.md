@@ -6,7 +6,7 @@ Because the github does not support big files, so we store all the big files and
 
 To run LGOT
 
-1. store dataset in kbc/src/src_data (this is where KG stores) (KG will be used by embedding based KG retrieval)
+1. store your own kg in kbc/src/src_data (this is where KG stores) (KG will be used by embedding based KG retrieval)
 
 Because Freebase stores entity as entity_id (e.g., m.0490fcx), we replace all entity_id with its true name (e.g., West virginia)
 
