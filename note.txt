@@ -1,0 +1,79 @@
+
+
+How to run kbc
+
+
+take the example of metaQA_half 
+
+store data in kbc/src/src_data/metaQA_half
+run add_reverse.py in each directory to add reverse triplets
+
+put knowledge graph triplets of train, valid, test in data directory
+create stats.txt
+go to directory kbc/src 
+change datasets in preprocess_datasets.py
+
+run preprocess_datasets.py, it will create metaQA_half in data/
+
+move metaQA_half in data/ to kbc/src/data
+
+run main.py
+
+the model will be stored in kbc/meta_half
+
+
+
+#
+metaQA is the new code in LGOT main_metaQA.py
+GraphQuestions uses the old code in chatGPT_GraphQuestions
+
+
+###
+process data for QTO
+run metaQA2QTO.py in each directory
+
+move generated files to root directory/data/meta_half
+
+
+MetaQA_half_preprocess/new_step4_add_path_to_qa.py
+
+Download KG data (FB15k, FB15k-237, NELL995) from here, and place them under folder data/. Go to kbc/ folder to prepare KG data for KGE model training:
+
+mkdir data/
+python preprocess_datasets.py
+
+
+freebase_half
+"args": ["--dataset","freebase_half","--score_rel","True","--model","ComplEx","--rank","100","--learning_rate","0.1", "--batch_size", "128", "--lmbda", "0.01", "--w_rel", "0.1", "--max_epochs", "5"]
+
+warning: for freebase_CWQ remember
+self.n_entities = 621351
+self.n_predicates = int(maxis[1] + 1)
+self.n_predicates = 523
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+run CWQ2QTO.py, first process(), then txt_triplet2id_triplet()
+
+copy alll generated file to data/CWQ-3hop
+
+
+step 2 run QTO 
+
+CUDA_VISIBLE_DEVICES=3 python main.py --data_path data/CWQ-3hop --kbc_path kbc/freebase_CWQ/best_valid.model --fraction 100 --thrshd 0.001 --neg_scale 6 
+remember change ranking to 200
+
+###### all vscode, remember to delete neural_adj when use new graph
+
+if you meet error "RuntimeError: Attempting to deserialize object on CUDA device 1 but torch.cuda.device_count() is 1. Please use torch.load with map_location to map your storages to an existing device."
+you can change 
+state_dict = torch.load(model_path) to
+state_dict = torch.load(model_path, map_location='cuda:0')
+
+
+
+########################################
+when run baseline
+
+train is all training query
+
